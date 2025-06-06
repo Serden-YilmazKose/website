@@ -1,0 +1,41 @@
+baseURL: http://sykose.xyz
+languageCode: en-us
+title: My Personal Website
+theme: ["PaperMod"]
+
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "My Personal Website"
+    subtitle: "Welcome to my internet page. From here, you'll find some of my other work."
+    imageUrl: "/pigeon.jpg"
+    imageTitle: "Cool bird I like."
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: SearX (Search Engine)
+        url: "https://searx.sykose.xyz"
+
+
+  socialIcons:
+    - name: github
+      title: View My GitHub Page
+      url: "https://github.com/Serden-YilmazKose"
+
+    - name: email
+      title: Send me an email!
+      url: "serdenyilmazkose@protonmail.com"
+
+    - name: KEY
+      title: My current public PGP key
+      url: "/0001syk.asc"
+
+    - name: Letterboxd
+      title: See what movies I watch, and how I rate them.
+      url: "https://letterboxd.com/LieutenantYoung"
+
+    - name: Wikipedia
+      title: Read upon my interests on my DokuWiki page
+      url: "https://wiki.sykose.xyz/"
