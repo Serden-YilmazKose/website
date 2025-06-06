@@ -3,8 +3,6 @@ languageCode: en-us
 title: My Personal Website
 theme: ["PaperMod"]
 
-
-
 params:
   profileMode:
     enabled: true
@@ -20,10 +18,12 @@ params:
         url: "/server/"
       - name: SearX Instance
         url: "https://searx.sykose.xyz"
+      - name: Encrypt your messages!
+        url: "/pgp/"
 
   socialIcons:
     - name: github
-      title: View My GitHub Page
+      title: View My GitHub Page.
       url: "https://github.com/Serden-YilmazKose"
 
     - name: email
@@ -31,7 +31,7 @@ params:
       url: "serdenyilmazkose@protonmail.com"
 
     - name: KEY
-      title: My current public PGP key
+      title: My current public PGP key.
       url: "/0001syk.asc"
 
     - name: Letterboxd
@@ -39,5 +39,5 @@ params:
       url: "https://letterboxd.com/LieutenantYoung"
 
     - name: Wikipedia
-      title: Read upon my interests on my DokuWiki page
+      title: Read upon my interests on my DokuWiki page.
       url: "https://wiki.sykose.xyz/"

@@ -1,5 +1,5 @@
 ---
-title: "How to get and use your server"
+title: "1. Why and how to get a server (and website!)"
 summary: The simple steps you need to take to finally have a website.
 ---
 ## Why need a server?
