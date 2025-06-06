@@ -5,7 +5,7 @@ showToc: true
 tocOpen: true
 ---
 ### What is "PGP"?
-PGP stands for "[Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)", and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was writte by Phil Zimmermann in the 1990s.
+PGP stands for "[Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)", and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.
 ### What do you mean by "encrypted messaged"?
 An encrypted message means the message isn't read as clear text. It's the difference between this:
 ```txt
@@ -31,7 +31,7 @@ WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
 =xTV9
 -----END PGP MESSAGE-----
 ```
-*Example provided by [Rutger's University's Computer Science Department](https://people.cs.rutgers.edu/~watrous/pgp-eat.html).
+*Example provided by [Rutgers' University's Computer Science Department](https://people.cs.rutgers.edu/~watrous/pgp-eat.html).
 
 It's much harder to make any sense out of the encrypted text, right? Well, that's the point!
 
@@ -53,7 +53,7 @@ Here are all the steps needed to start using Kleopatra:
 * Add your name and/or Email address (the information does not have to be authentic).
 * Optional: Password protect your key (I highly recommend this).
 * Choose the Key Material. Go with the default if you don't know the differences in key material.
-* Optional: Choose expriation date of the key.
+* Optional: Choose expiration date of the key.
 * If you chose to password protect your key, type in your password in the field. Type it again to verify.
 * Click OK, and voila! Your key has been made.
 * Right click on your key from the main menu, and click on "Export". Save the **public** key to a .asc file, and share it around!

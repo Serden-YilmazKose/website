@@ -1,18 +1,19 @@
 baseURL: http://sykose.xyz
 languageCode: en-us
-title: My Personal Website
+title: Serden-Yilmaz Kose
 theme: ["PaperMod"]
 
 params:
   profileMode:
     enabled: true
-    title: "My Personal Website"
-    subtitle: "Welcome to my internet page. From here, you'll find some of my other work."
+    title: "My Digital Palace"
+    subtitle: "Welcome to my internet page. Here, you'll find my socials and articles I've written."
     imageUrl: "/pigeon.jpg"
     imageTitle: "Cool bird I like."
     imageWidth: 120
     imageHeight: 120
     showDate: false
+    ShowPostNavLinks: true
     buttons:
       - name: "How to make your own website"
         url: "/server/"
@@ -28,7 +29,7 @@ params:
 
     - name: email
       title: Send me an email!
-      url: "serdenyilmazkose@protonmail.com"
+      url: "mailto:serdenyilmazkose@protonmail.com"
 
     - name: KEY
       title: My current public PGP key.
