@@ -14,10 +14,12 @@ params:
     imageTitle: "Cool bird I like."
     imageWidth: 120
     imageHeight: 120
+    showDate: false
     buttons:
-      - name: SearX (Search Engine)
+      - name: "How to make your own website"
+        url: "/server/"
+      - name: SearX Instance
         url: "https://searx.sykose.xyz"
-
 
   socialIcons:
     - name: github

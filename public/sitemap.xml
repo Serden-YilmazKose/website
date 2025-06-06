@@ -2,11 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-06T00:55:19-05:00</lastmod>
+    <loc>http://sykose.xyz/posts/first_post/</loc>
+    <lastmod>2025-06-06T01:05:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://sykose.xyz/</loc>
+    <lastmod>2025-06-06T01:05:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://sykose.xyz/posts/</loc>
+    <lastmod>2025-06-06T01:05:54-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/server/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/categories/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/server/how-to-make-a-server/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/server/serv/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/tags/</loc>
   </url>
 </urlset>
