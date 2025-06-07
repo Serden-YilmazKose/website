@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/server/how-to-make-a-server/</loc>
-  </url><url>
-    <loc>http://localhost:1313/server/utilize-website/</loc>
-  </url><url>
-    <loc>http://localhost:1313/server/</loc>
+    <loc>http://sykose.xyz/server/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://sykose.xyz/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://sykose.xyz/server/how-to-make-a-server/</loc>
   </url><url>
-    <loc>http://localhost:1313/pgp/first_post/</loc>
+    <loc>http://sykose.xyz/server/utilize-website/</loc>
   </url><url>
-    <loc>http://localhost:1313/pgp/</loc>
+    <loc>http://sykose.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://sykose.xyz/pgp/first_post/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/pgp/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/tags/</loc>
   </url>
 </urlset>

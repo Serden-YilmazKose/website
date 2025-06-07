@@ -36,12 +36,12 @@ WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
 It's much harder to make any sense out of the encrypted text, right? Well, that's the point!
 
 ### But GMail and WhatsApp tell me their website and my messages are encrypted!
-Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn't to complicated matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we'll get into that later.
+Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn't to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we'll get into that later.
 
 ### Where/how do I start?
 #### How does it work?
 In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:
-* Everyone has a **public** and **private** key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The **public** key is to be shared with everyone, but the **private** key should never leave your computer (hence the name).
+* Everyone has a **public** and **private** key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The **public** key is to be shared with everyone, but the **private** key should never leave your computer (hence the name). Here is [my public key](/0001syk.asc), download it.
 * To send me an encrypted message, you must write the message (in clear text), then encrypt it using my **public** key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don't need to understand it.
 
 #### Is there an app I can use?
@@ -69,3 +69,22 @@ Here are the steps to decrypt a PGP message using Kleopatra:
 * Click on "Decrypt/Verify Notepad"
 * If your private key is password-protected, type in the password when prompted.
 * The decrypted message should now appear in the notepad.
+
+### What else can I do with PGP?
+Something you can do using PGP technology is digitally signing your messages. A PGP-signed message will look like this:
+```pgp
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hello, this message is digitally signed.
+Everyone can both read the content.
+You can verify I am the true author of this message.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQR657wQ2YpjkKxAywZa2EuFS5oaQQUCaEO/WQAKCRBa2EuFS5oa
+QSV5AQCgixyVnTNgdReMdu6GFGZ/2aj5YVGOafTfMM15FZtPtQD/bKdxnB+0ZTes
+zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM=
+=E81E
+-----END PGP SIGNATURE-----
+```
+The message goes under ```BEGIN PGP SIGNED MESSAGE```, and the actual digital signature goes under ```BEGIN PGP SIGNATURE```.

@@ -42,3 +42,7 @@ params:
     - name: Wikipedia
       title: Read upon my interests on my DokuWiki page.
       url: "https://wiki.sykose.xyz/"
+
+    - name: Education
+      title: Take a look at my Bachelor's thesis.
+      url: "https://oulurepo.oulu.fi/handle/10024/56637"
