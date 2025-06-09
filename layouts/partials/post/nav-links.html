@@ -1,0 +1,36 @@
+{{ $allPages := where .Site.RegularPages "File.Dir" .File.Dir }}
+{{ $sorted := sort $allPages "Params.weight" }}
+{{ if eq (len $sorted) 0 }}
+  {{ $sorted = sort $allPages "Date" }}
+{{ end }}
+
+{{ $current := . }}
+{{ $index := -1 }}
+
+{{ range $i, $p := $sorted }}
+  {{ if eq $p.RelPermalink $current.RelPermalink }}
+    {{ $index = $i }}
+  {{ end }}
+{{ end }}
+
+{{ if or (ge $index 1) (lt (add $index 1) (len $sorted)) }}
+  <div id="nextprev" style="margin-top: 4rem;">
+    {{ if lt (add $index 1) (len $sorted) }}
+      {{ $next := index $sorted (add $index 1) }}
+      <div id="nextart" style="margin-bottom: 1rem;">
+        <a href="{{ $next.RelPermalink }}" style="font-size: 2.5rem; font-weight: bold;">
+          Next: {{ $next.Title }} →
+        </a>
+      </div>
+    {{ end }}
+
+    {{ if ge $index 1 }}
+      {{ $prev := index $sorted (sub $index 1) }}
+      <div id="prevart" style="font-size: 1.25rem; color: #666;">
+        <a href="{{ $prev.RelPermalink }}">
+          ← Previous: {{ $prev.Title }}
+        </a>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cvs on Serden-Yilmaz Kose</title>
+    <link>http://sykose.xyz/cv/</link>
+    <description>Recent content in Cvs on Serden-Yilmaz Kose</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://sykose.xyz/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://sykose.xyz/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sykose.xyz/cv/cv/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Detail-oriented software engineering student with a passion for AI and network systems.&lt;/p&gt;
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming: Python, Java, JavaScript, SQL&lt;/li&gt;
+&lt;li&gt;Tools: Git, Docker, VS Code, Linux&lt;/li&gt;
+&lt;li&gt;Languages: English, Spanish&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;B.Sc. in Computer Science &amp;amp; Engineering&lt;/strong&gt;
+University of Ontario, 2022–2026
+Specialization: Artificial Intelligence&lt;/p&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Graph-Based Poetry Analysis&lt;/strong&gt;
+Natural language processing and network theory applied to poetry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Journal AI App&lt;/strong&gt;
+A journaling app with Auth0, MySQL, and GPT-assisted guidance.&lt;/p&gt;
+&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Software Intern – XYZ Company&lt;/strong&gt;
+Jan 2025 – April 2025
+Worked on improving backend performance using Node.js and MySQL.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

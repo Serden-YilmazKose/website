@@ -1,6 +1,9 @@
 ---
-title: "2. How to utilize your site."
+title: "How to utilize your site."
 summary: Cool things you can do, now that you have your server and website.
+weight: 2
+showToc: true
+tocOpen: true
 ---
 
 ### Cool, I have a website. What now?

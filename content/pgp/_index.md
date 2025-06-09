@@ -1,7 +1,6 @@
 ---
-title: "Posts and other material"
-summary: "Just stuff I write"
 url: "/pgp/"
+title: Learn to write encrypted messages!
 ---
 
-# Learn to write encrypted messages!
+## Follow this guide if you want to have very secure conversations online.

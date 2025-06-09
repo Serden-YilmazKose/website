@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Get started with PGP! | Serden-Yilmaz Kose</title>
-<meta name="keywords" content="">
-<meta name="description" content="Get started with PGP">
+<meta name="keywords" content="linux, PGP, privacy">
+<meta name="description" content="Introduction to PGP messaging">
 <meta name="author" content="">
 <link rel="canonical" href="http://sykose.xyz/pgp/first_post/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.2211ca3164be7830024f6aad2b3a2e520843a64f8f048445c3401c1249aa051d.css" integrity="sha256-IhHKMWS&#43;eDACT2qtKzouUghDpk&#43;PBIRFw0AcEkmqBR0=" rel="preload stylesheet" as="style">
@@ -58,13 +58,16 @@
 </noscript><meta property="og:url" content="http://sykose.xyz/pgp/first_post/">
   <meta property="og:site_name" content="Serden-Yilmaz Kose">
   <meta property="og:title" content="Get started with PGP!">
-  <meta property="og:description" content="Get started with PGP">
+  <meta property="og:description" content="Introduction to PGP messaging">
   <meta property="og:locale" content="en-us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="pgp">
+    <meta property="article:tag" content="Linux">
+    <meta property="article:tag" content="PGP">
+    <meta property="article:tag" content="Privacy">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Get started with PGP!">
-<meta name="twitter:description" content="Get started with PGP">
+<meta name="twitter:description" content="Introduction to PGP messaging">
 
 
 <script type="application/ld+json">
@@ -75,7 +78,7 @@
     {
       "@type": "ListItem",
       "position":  1 ,
-      "name": "Posts and other material",
+      "name": "Learn to write encrypted messages!",
       "item": "http://sykose.xyz/pgp/"
     }, 
     {
@@ -93,12 +96,12 @@
   "@type": "BlogPosting",
   "headline": "Get started with PGP!",
   "name": "Get started with PGP!",
-  "description": "Get started with PGP",
+  "description": "Introduction to PGP messaging",
   "keywords": [
-    
+    "linux", "PGP", "privacy"
   ],
-  "articleBody": "What is “PGP”? PGP stands for “Pretty Good Privacy”, and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.\nWhat do you mean by “encrypted messaged”? An encrypted message means the message isn’t read as clear text. It’s the difference between this:\nThis is a sample. This is a sample text file. I created it with an editor. If it were an actual message, it would contain some useful information. This has been a sample. and this:\n-----BEGIN PGP MESSAGE----- Version: 2.6.2 hIwD1vwet/TdJfEBBACdcCPkNI3kRwYqtHUyfpvVAY5rt+Lb9P6EztNd4sYq9egV CZjfqcCn36XZmYPbbO6nZbl992kPRFzTgCRszKNPtlk6Wa93AqXs3KCZp+4emXQh 7moE+XTf4QUGJZ2L3w/sSNs5WFkZRIbto0ivK1aRlX1XTqhPqo9HbgEfElBVUaYA AACQEWaOS3/h6BVLHTfXaK20vmLcg9BUisB5RDvYGLZv9XFwHMMjctFJJQYnWIOp +7LLkmNO5fE48rWh0EOAwjAeduGzJGQb4yiE7OlxoESmmTJQ+qO1K2nDz8Stk3a6 WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph /Qfi =xTV9 -----END PGP MESSAGE----- *Example provided by Rutgers’ University’s Computer Science Department.\nIt’s much harder to make any sense out of the encrypted text, right? Well, that’s the point!\nBut GMail and WhatsApp tell me their website and my messages are encrypted! Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn’t to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we’ll get into that later.\nWhere/how do I start? How does it work? In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:\nEveryone has a public and private key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The public key is to be shared with everyone, but the private key should never leave your computer (hence the name). Here is my public key, download it. To send me an encrypted message, you must write the message (in clear text), then encrypt it using my public key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don’t need to understand it. Is there an app I can use? There are dozens of PGP graphical software apps out there, but only one is known for it’s easy of use; I personally find Kleopatra to be the standard when it comes to PGP messaging. Download it to follow the rest of this guide.\nHow to encrypt messages using Kleopatra? Here are all the steps needed to start using Kleopatra:\nClick on File, then click on New OpenPGP Key Pair. Add your name and/or Email address (the information does not have to be authentic). Optional: Password protect your key (I highly recommend this). Choose the Key Material. Go with the default if you don’t know the differences in key material. Optional: Choose expiration date of the key. If you chose to password protect your key, type in your password in the field. Type it again to verify. Click OK, and voila! Your key has been made. Right click on your key from the main menu, and click on “Export”. Save the public key to a .asc file, and share it around! To encrypt a message, go to “Notepad” on the taskbar. Type in your message. Select the recipient’s public key under “Encrypt for others”. Click on “Encrypt Notepad”, and there is your encrypted message! Great! You now have a safely encrypted message. Send it to the recipient using the platform of your choice (E-Mail may be preferred).\nHow to decrypt messages using Kleopatra? Here are the steps to decrypt a PGP message using Kleopatra:\nPaste the encrypted message into your notepad. Click on “Decrypt/Verify Notepad” If your private key is password-protected, type in the password when prompted. The decrypted message should now appear in the notepad. What else can I do with PGP? Something you can do using PGP technology is digitally signing your messages. A PGP-signed message will look like this:\n-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Hello, this message is digitally signed. Everyone can both read the content. You can verify I am the true author of this message. -----BEGIN PGP SIGNATURE----- iHUEARYKAB0WIQR657wQ2YpjkKxAywZa2EuFS5oaQQUCaEO/WQAKCRBa2EuFS5oa QSV5AQCgixyVnTNgdReMdu6GFGZ/2aj5YVGOafTfMM15FZtPtQD/bKdxnB+0ZTes zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM= =E81E -----END PGP SIGNATURE----- The message goes under BEGIN PGP SIGNED MESSAGE, and the actual digital signature goes under BEGIN PGP SIGNATURE.\n",
-  "wordCount" : "762",
+  "articleBody": "What is “PGP”? PGP stands for “Pretty Good Privacy”, and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.\nWhat do you mean by “encrypted message”? An encrypted message means the message isn’t read as clear text. It’s the difference between this:\nThis is a sample. This is a sample text file. I created it with an editor. If it were an actual message, it would contain some useful information. This has been a sample. and this:\n-----BEGIN PGP MESSAGE----- Version: 2.6.2 hIwD1vwet/TdJfEBBACdcCPkNI3kRwYqtHUyfpvVAY5rt+Lb9P6EztNd4sYq9egV CZjfqcCn36XZmYPbbO6nZbl992kPRFzTgCRszKNPtlk6Wa93AqXs3KCZp+4emXQh 7moE+XTf4QUGJZ2L3w/sSNs5WFkZRIbto0ivK1aRlX1XTqhPqo9HbgEfElBVUaYA AACQEWaOS3/h6BVLHTfXaK20vmLcg9BUisB5RDvYGLZv9XFwHMMjctFJJQYnWIOp +7LLkmNO5fE48rWh0EOAwjAeduGzJGQb4yiE7OlxoESmmTJQ+qO1K2nDz8Stk3a6 WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph /Qfi =xTV9 -----END PGP MESSAGE----- *Example provided by Rutgers’ University’s Computer Science Department.\nIt’s much harder to make any sense out of the encrypted text, right? Well, that’s the point!\nBut GMail and WhatsApp tell me their website and my messages are encrypted! Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn’t to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we’ll get into that later.\nWhy should I even care? Read this article on the subject.\nWhere/how do I start? How does it work? In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:\nEveryone has a public and private key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The public key is to be shared with everyone, but the private key should never leave your computer (hence the name). Here is my public key, download it. To send me an encrypted message, you must write the message (in clear text), then encrypt it using my public key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don’t need to understand it. Is there an app I can use? There are dozens of PGP graphical software apps out there, but only one is known for it’s ease of use; I personally find Kleopatra to be the standard when it comes to PGP messaging. Download it to follow the rest of this guide.\nHow to encrypt messages using Kleopatra? Here are all the steps needed to start using Kleopatra:\nClick on File, then click on New OpenPGP Key Pair. Add your name and/or Email address (the information does not have to be authentic). Optional: Password protect your key (I highly recommend this). Choose the Key Material. Go with the default if you don’t know the differences in key material. Optional: Choose expiration date of the key. If you chose to password protect your key, type in your password in the field. Type it again to verify. Click OK, and voila! Your key has been created. Right click on your key from the main menu, and click on “Export”. Save the public key to a .asc file, and share it around! To encrypt a message, go to “Notepad” on the taskbar. Type in your message. Select the recipient’s public key under “Encrypt for others”. Click on “Encrypt Notepad”, and there is your encrypted message! Great! You now have a safely encrypted message. Send it to the recipient using the platform of your choice (E-Mail may be preferred).\nHow to decrypt messages using Kleopatra? Here are the steps to decrypt a PGP message using Kleopatra:\nPaste the encrypted message into your notepad. Click on “Decrypt/Verify Notepad” If your private key is password-protected, type in the password when prompted. The decrypted message should now appear in the notepad. What else can I do with PGP? Something you can do using PGP technology is digitally signing your messages. A PGP-signed message will look like this:\n-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Hello, this message is digitally signed. Everyone can both read the content. You can verify I am the true author of this message. -----BEGIN PGP SIGNATURE----- iHUEARYKAB0WIQR657wQ2YpjkKxAywZa2EuFS5oaQQUCaEO/WQAKCRBa2EuFS5oa QSV5AQCgixyVnTNgdReMdu6GFGZ/2aj5YVGOafTfMM15FZtPtQD/bKdxnB+0ZTes zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM= =E81E -----END PGP SIGNATURE----- The message goes under BEGIN PGP SIGNED MESSAGE, and the actual digital signature goes under BEGIN PGP SIGNATURE.\n",
+  "wordCount" : "773",
   "inLanguage": "en",
   "datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -158,6 +161,26 @@
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="http://sykose.xyz/pigeon.jpg" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://sykose.xyz/blog/" title="My personal blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://sykose.xyz/contact" title="Contact me!">
+                    <span>Conctact</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://sykose.xyz/tags/" title="Pages under specific tags on my website">
+                    <span>Tags</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -182,9 +205,11 @@
                 <li>
                     <a href="#what-is-pgp" aria-label="What is &ldquo;PGP&rdquo;?">What is &ldquo;PGP&rdquo;?</a></li>
                 <li>
-                    <a href="#what-do-you-mean-by-encrypted-messaged" aria-label="What do you mean by &ldquo;encrypted messaged&rdquo;?">What do you mean by &ldquo;encrypted messaged&rdquo;?</a></li>
+                    <a href="#what-do-you-mean-by-encrypted-message" aria-label="What do you mean by &ldquo;encrypted message&rdquo;?">What do you mean by &ldquo;encrypted message&rdquo;?</a></li>
                 <li>
                     <a href="#but-gmail-and-whatsapp-tell-me-their-website-and-my-messages-are-encrypted" aria-label="But GMail and WhatsApp tell me their website and my messages are encrypted!">But GMail and WhatsApp tell me their website and my messages are encrypted!</a></li>
+                <li>
+                    <a href="#why-should-i-even-care" aria-label="Why should I even care?">Why should I even care?</a></li>
                 <li>
                     <a href="#wherehow-do-i-start" aria-label="Where/how do I start?">Where/how do I start?</a><ul>
                         
@@ -207,7 +232,7 @@
 
   <div class="post-content"><h3 id="what-is-pgp">What is &ldquo;PGP&rdquo;?<a hidden class="anchor" aria-hidden="true" href="#what-is-pgp">#</a></h3>
 <p>PGP stands for &ldquo;<a href="https://en.wikipedia.org/wiki/Pretty_Good_Privacy">Pretty Good Privacy</a>&rdquo;, and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.</p>
-<h3 id="what-do-you-mean-by-encrypted-messaged">What do you mean by &ldquo;encrypted messaged&rdquo;?<a hidden class="anchor" aria-hidden="true" href="#what-do-you-mean-by-encrypted-messaged">#</a></h3>
+<h3 id="what-do-you-mean-by-encrypted-message">What do you mean by &ldquo;encrypted message&rdquo;?<a hidden class="anchor" aria-hidden="true" href="#what-do-you-mean-by-encrypted-message">#</a></h3>
 <p>An encrypted message means the message isn&rsquo;t read as clear text. It&rsquo;s the difference between this:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>This is a sample.
 </span></span><span style="display:flex;"><span>
@@ -232,6 +257,8 @@ WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
 <p>It&rsquo;s much harder to make any sense out of the encrypted text, right? Well, that&rsquo;s the point!</p>
 <h3 id="but-gmail-and-whatsapp-tell-me-their-website-and-my-messages-are-encrypted">But GMail and WhatsApp tell me their website and my messages are encrypted!<a hidden class="anchor" aria-hidden="true" href="#but-gmail-and-whatsapp-tell-me-their-website-and-my-messages-are-encrypted">#</a></h3>
 <p>Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn&rsquo;t to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we&rsquo;ll get into that later.</p>
+<h3 id="why-should-i-even-care">Why should I even care?<a hidden class="anchor" aria-hidden="true" href="#why-should-i-even-care">#</a></h3>
+<p>Read <a href="/pgp/why_pgp">this article</a> on the subject.</p>
 <h3 id="wherehow-do-i-start">Where/how do I start?<a hidden class="anchor" aria-hidden="true" href="#wherehow-do-i-start">#</a></h3>
 <h4 id="how-does-it-work">How does it work?<a hidden class="anchor" aria-hidden="true" href="#how-does-it-work">#</a></h4>
 <p>In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:</p>
@@ -240,7 +267,7 @@ WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
 <li>To send me an encrypted message, you must write the message (in clear text), then encrypt it using my <strong>public</strong> key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don&rsquo;t need to understand it.</li>
 </ul>
 <h4 id="is-there-an-app-i-can-use">Is there an app I can use?<a hidden class="anchor" aria-hidden="true" href="#is-there-an-app-i-can-use">#</a></h4>
-<p>There are dozens of PGP graphical software apps out there, but only one is known for it&rsquo;s easy of use; I personally find <a href="https://www.openpgp.org/software/kleopatra/">Kleopatra</a> to be the standard when it comes to PGP messaging. Download it to follow the rest of this guide.</p>
+<p>There are dozens of PGP graphical software apps out there, but only one is known for it&rsquo;s ease of use; I personally find <a href="https://www.openpgp.org/software/kleopatra/">Kleopatra</a> to be the standard when it comes to PGP messaging. Download it to follow the rest of this guide.</p>
 <h4 id="how-to-encrypt-messages-using-kleopatra">How to encrypt messages using Kleopatra?<a hidden class="anchor" aria-hidden="true" href="#how-to-encrypt-messages-using-kleopatra">#</a></h4>
 <p>Here are all the steps needed to start using Kleopatra:</p>
 <ul>
@@ -250,7 +277,7 @@ WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
 <li>Choose the Key Material. Go with the default if you don&rsquo;t know the differences in key material.</li>
 <li>Optional: Choose expiration date of the key.</li>
 <li>If you chose to password protect your key, type in your password in the field. Type it again to verify.</li>
-<li>Click OK, and voila! Your key has been made.</li>
+<li>Click OK, and voila! Your key has been created.</li>
 <li>Right click on your key from the main menu, and click on &ldquo;Export&rdquo;. Save the <strong>public</strong> key to a .asc file, and share it around!</li>
 <li>To encrypt a message, go to &ldquo;Notepad&rdquo; on the taskbar. Type in your message.</li>
 <li>Select the recipient&rsquo;s public key under &ldquo;Encrypt for others&rdquo;.</li>
@@ -287,9 +314,42 @@ zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM=
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="http://sykose.xyz/tags/linux/">Linux</a></li>
+      <li><a href="http://sykose.xyz/tags/pgp/">PGP</a></li>
+      <li><a href="http://sykose.xyz/tags/privacy/">Privacy</a></li>
     </ul>
   </footer>
 </article>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+
+
+
+  <div id="nextprev" style="margin-top: 4rem;">
+    
+      
+      <div id="nextart" style="margin-bottom: 1rem;">
+        <a href="/pgp/why_pgp/" style="font-size: 2.5rem; font-weight: bold;">
+          Next: Why use PGP? →
+        </a>
+      </div>
+    
+
+    
+  </div>
+
+
     </main>
     
 <footer class="footer">

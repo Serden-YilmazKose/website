@@ -14,13 +14,21 @@ params:
     imageHeight: 120
     showDate: false
     ShowPostNavLinks: true
+    dateFormat: "2006-01-02"
+    showPostTags: true
     buttons:
-      - name: "How to make your own website"
-        url: "/server/"
       - name: SearX Instance
         url: "https://searx.sykose.xyz"
+      - name: "How to make your own website"
+        url: "/server/"
       - name: Encrypt your messages!
         url: "/pgp/"
+      - name: Blog
+        url: "/blog/"
+      - name: Tags
+        url: "/tags/"
+      - name: Contact
+        url: "/contact"
 
   socialIcons:
     - name: github
@@ -46,3 +54,21 @@ params:
     - name: Education
       title: Take a look at my Bachelor's thesis.
       url: "https://oulurepo.oulu.fi/handle/10024/56637"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+menu:
+  main:
+    - name: "About"
+      url: "/pigeon.jpg"
+    - name: Conctact
+      title: Contact me!
+      url: "/contact"
+    - name: Blog
+      title: My personal blog
+      url: "/blog/"
+    - name: Tags
+      title: Pages under specific tags on my website
+      url: "/tags/"
