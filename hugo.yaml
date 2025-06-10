@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: "My Digital Palace"
-    subtitle: "Welcome to my internet page. Here, you'll find my socials and articles I've written."
+    subtitle: "Welcome to my internet page. Here, you'll some facts about me, along with guides and blogs."
     imageUrl: "/pigeon.jpg"
     imageTitle: "Cool bird I like."
     imageWidth: 120
@@ -18,10 +18,10 @@ params:
     showPostTags: true
     buttons:
       - name: SearX Instance
-        url: "https://searx.sykose.xyz"
-      - name: "How to make your own website"
+        url: "/searx/"
+      - name: "Make your own website"
         url: "/server/"
-      - name: Encrypt your messages!
+      - name: Encrypt your messages
         url: "/pgp/"
       - name: Blog
         url: "/blog/"

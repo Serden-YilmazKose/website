@@ -4,7 +4,7 @@ title: 'Bring back the meaning of words!'
 summary: If you can solve a soduku puzzle, you are a genius!
 tags: ['blog', 'social']
 showToc: true
-tocOpen: true
+!-- tocOpen: true -->
 ---
 
 ### The beginning
