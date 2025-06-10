@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Serden-Yilmaz Kose</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://sykose.xyz/tags/</link>
     <description>Recent content in Tags on Serden-Yilmaz Kose</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jun 2025 00:56:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sykose.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
+      <link>http://sykose.xyz/tags/blog/</link>
       <pubDate>Mon, 09 Jun 2025 00:56:14 -0500</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
+      <guid>http://sykose.xyz/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Social</title>
-      <link>http://localhost:1313/tags/social/</link>
+      <link>http://sykose.xyz/tags/social/</link>
       <pubDate>Mon, 09 Jun 2025 00:56:14 -0500</pubDate>
-      <guid>http://localhost:1313/tags/social/</guid>
+      <guid>http://sykose.xyz/tags/social/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>http://sykose.xyz/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>http://sykose.xyz/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/tags/contact/</link>
+      <link>http://sykose.xyz/tags/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/contact/</guid>
+      <guid>http://sykose.xyz/tags/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Email</title>
-      <link>http://localhost:1313/tags/email/</link>
+      <link>http://sykose.xyz/tags/email/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/email/</guid>
+      <guid>http://sykose.xyz/tags/email/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>http://sykose.xyz/tags/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>http://sykose.xyz/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>PGP</title>
-      <link>http://localhost:1313/tags/pgp/</link>
+      <link>http://sykose.xyz/tags/pgp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pgp/</guid>
+      <guid>http://sykose.xyz/tags/pgp/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>http://sykose.xyz/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>http://sykose.xyz/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>http://localhost:1313/tags/server/</link>
+      <link>http://sykose.xyz/tags/server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/server/</guid>
+      <guid>http://sykose.xyz/tags/server/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/tags/website/</link>
+      <link>http://sykose.xyz/tags/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/website/</guid>
+      <guid>http://sykose.xyz/tags/website/</guid>
       <description></description>
     </item>
   </channel>
