@@ -4,7 +4,6 @@ summary: "Some information about myself"
 tags: ['about']
 showToc: true
 tocOpen: true
-weight: 1
 ---
 
 ### Name
