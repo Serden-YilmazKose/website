@@ -62,7 +62,7 @@ taxonomies:
 menu:
   main:
     - name: "About"
-      url: "/pigeon.jpg"
+      url: "/about"
     - name: Conctact
       title: Contact me!
       url: "/contact"
