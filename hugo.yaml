@@ -3,7 +3,6 @@ languageCode: en-us
 title: Serden-Yilmaz Kose
 theme: ["PaperMod"]
 
-
 params:
   profileMode:
     enabled: true
