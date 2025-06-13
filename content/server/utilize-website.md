@@ -7,7 +7,7 @@ tocOpen: true
 ---
 
 ### Cool, I have a website. What now?
-You are now on your own, you have to decide how you want to use your website. Would you like to make a blog, or use your website as a portfolio/CV? Would you like to self-host services like an email server, search engine, Wiki page, and many more? Well, you now can. You can get started with [Luke Smith's list of self-hosting services)[https://landchad.net/].
+You are now on your own, you have to decide how you want to use your website. Would you like to make a blog, or use your website as a portfolio/CV? Would you like to self-host services like an email server, search engine, Wiki page, and many more? Well, you now can. You can get started with [Luke Smith's list of self-hosting services](https://landchad.net/).
 
 ### I don't know where to start, what should I host?
 I would strongly recommend hosting [your own search engine](https://landchad.net/searxng/), as a search engine is likely your most used and utilized service, so you may want a little bit of privacy.
