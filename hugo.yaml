@@ -17,6 +17,10 @@ params:
     dateFormat: "2006-01-02"
     showPostTags: true
     buttons:
+      - name: Playing Card Collection
+        url: "/cards/cards"
+      - name: Movies
+        url: "/movies/movies"
       - name: SearX Instance
         url: "/searx/"
       - name: "Make your own website"
@@ -61,6 +65,9 @@ taxonomies:
 
 menu:
   main:
+    - name: "CV"
+      weight: 1
+      url: "/CV/cv"
     - name: "About"
       url: "/about"
     - name: Conctact

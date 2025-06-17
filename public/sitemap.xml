@@ -37,7 +37,17 @@
   </url><url>
     <loc>http://sykose.xyz/about/</loc>
   </url><url>
+    <loc>http://sykose.xyz/cards/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/cards/cards/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/tags/cards/</loc>
+  </url><url>
     <loc>http://sykose.xyz/categories/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/tags/cinema/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/tags/collection/</loc>
   </url><url>
     <loc>http://sykose.xyz/contact/</loc>
   </url><url>
@@ -52,6 +62,12 @@
     <loc>http://sykose.xyz/pgp/</loc>
   </url><url>
     <loc>http://sykose.xyz/tags/linux/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/movies/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/movies/movies/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/tags/movies/</loc>
   </url><url>
     <loc>http://sykose.xyz/tags/pgp/</loc>
   </url><url>
