@@ -51,9 +51,9 @@ params:
       title: See what movies I watch, and how I rate them.
       url: "https://letterboxd.com/LieutenantYoung"
 
-    - name: Wikipedia
-      title: Read upon my interests on my DokuWiki page.
-      url: "https://wiki.sykose.xyz/"
+    # - name: Wikipedia
+    #   title: Read upon my interests on my DokuWiki page.
+    #   url: "https://wiki.sykose.xyz/"
 
     - name: Education
       title: Take a look at my Bachelor's thesis.
@@ -63,13 +63,18 @@ taxonomies:
   tag: "tags"
   category: "categories"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
-    - name: "CV"
-      weight: 1
-      url: "/CV/cv"
-    - name: "About"
-      url: "/about"
+    # - name: "CV"
+    #   weight: 1
+    #   url: "/CV/cv"
+    # - name: "About"
+    #   url: "/about"
     - name: Conctact
       title: Contact me!
       url: "/contact"

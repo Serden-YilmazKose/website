@@ -39,8 +39,6 @@
   </url><url>
     <loc>http://sykose.xyz/cards/</loc>
   </url><url>
-    <loc>http://sykose.xyz/cards/cards/</loc>
-  </url><url>
     <loc>http://sykose.xyz/tags/cards/</loc>
   </url><url>
     <loc>http://sykose.xyz/categories/</loc>
@@ -70,6 +68,8 @@
     <loc>http://sykose.xyz/tags/movies/</loc>
   </url><url>
     <loc>http://sykose.xyz/tags/pgp/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/cards/cards/</loc>
   </url><url>
     <loc>http://sykose.xyz/tags/privacy/</loc>
   </url><url>

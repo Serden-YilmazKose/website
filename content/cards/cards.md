@@ -1,5 +1,5 @@
 ---
-title: "Cards"
+title: "Playing Cards Collection"
 summary: "Learn about my playing card collection"
 tags: ['cards', 'collection']
 showToc: true
@@ -8,7 +8,7 @@ tocOpen: true
 ---
 
 
-# Playing Cards
+<!-- # Playing Cards -->
 ## Collection
 Alongside my hobby of card magic and sleight of hands, I collect unique playing cards from all around the world. My collection seeks to have one deck of cards originating from every country in the world. A goal that ambitious may take years, but I will try.
 
@@ -19,9 +19,24 @@ I have made some some strict rules around my collection.
   - The deck cannot be bought online.
   - The deck must be of the [standard 52-card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck), meaning it has four suits (Spades, Diamonds, Clubs, and Hearts), running from the Ace to the King
 
-### Map
-The following is a world map, highlighting the countries from which I’ve collected a deck:
-![Map of playing card collection](https://wiki.sykose.xyz/lib/exe/fetch.php?media=mapchart_map.png)
+### Countries Collected
+<!-- The following is a world map, highlighting the countries from which I’ve collected a deck: -->
+The following is a list of countries from which I've collected a deck of playing cards:
+- Austria
+- Croatia
+- Czech Republic
+- Finland
+- Germany
+- Iceland
+- Italy
+- Norway
+- Poland
+- Romania
+- Spain
+- Sweden
+- United Kingdom
+- United States of America
+<!-- ![Map of playing card collection](https://wiki.sykose.xyz/lib/exe/fetch.php?media=mapchart_map.png) -->
 
 ## My Favorite Deck
 My favorite deck of playing cards is, drumroll please... a standard Bicycle! The United States Playing Card Company (USPCC) make the best playing cards for the price, you get the greatest bang for you buck. The following is a list explaining why I prefer standard Bicycles:
