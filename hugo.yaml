@@ -4,11 +4,12 @@ title: Serden-Yilmaz Kose
 theme: ["PaperMod"]
 
 params:
+  monero: "89NJQenW1EZSX3ui6zXjUpLmPTKSz8aUkPdQMXJSYMWpSsnsL4jTZXW9Pcrge9C1YD9h9NyqMWr6tVmRfLEfFJxbJEXSUei"
   profileMode:
     enabled: true
     title: "My Digital Palace"
     subtitle: "Welcome to my internet page. Here, you'll some facts about me, along with guides and blogs."
-    imageUrl: "/pigeon.jpg"
+    imageUrl: "https://sykose.xyz/pigeon.jpg"
     imageTitle: "Cool bird I like."
     imageWidth: 120
     imageHeight: 120
@@ -55,9 +56,17 @@ params:
     #   title: Read upon my interests on my DokuWiki page.
     #   url: "https://wiki.sykose.xyz/"
 
-    - name: Education
+    - name: Thesis
       title: Take a look at my Bachelor's thesis.
       url: "https://oulurepo.oulu.fi/handle/10024/56637"
+
+    - name: LinkedIn
+      title: My LinkedIn Profile.
+      url: "https://oulurepo.oulu.fi/handle/10024/56637"
+
+    - name: XMPP
+      title: Use My XMPP Chat Server!
+      url: "https://chat.sykose.xyz"
 
 taxonomies:
   tag: "tags"
