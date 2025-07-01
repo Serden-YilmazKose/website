@@ -52,6 +52,14 @@ The following are the movies I have watched since the beginning of my movie jour
 
 **NOTE**: I will update this month at the end of each month, probably.
 ## 2025
+### June
+  * **2025-06-27** - [Apollo 13](https://boxd.it/a8Wvth) - (1995) - First Watch
+  * **2025-06-20** - [A Man Called Otto](https://boxd.it/a4xLEz) - (2022) - First Watch
+  * **2025-06-19** - [Tony Hawk: Until the Wheels Fall Off](https://boxd.it/a3VXuv) - (2022) - First Watch
+  * **2025-06-16** - [Would I Lie to You? 2](https://boxd.it/a1UL9b) - (2001) - Rewatch
+  * **2025-06-16** - [Would I Lie to You?](https://boxd.it/a1UKB9) - (1997) - Rewatch
+  * **2025-06-05** - [Shot Caller](https://boxd.it/9UMlEX) - (2017) - First Watch
+  * **2025-06-03** - [Good Burger 2](https://boxd.it/9TKfL1) - (2023) - Rewatch
 ### May
   * **2025-05-30** - [Are We There Yet?](https://boxd.it/9RcdEr) - (2005) - Rewatch
   * **2025-05-26** - [A Minecraft Movie](https://boxd.it/9OAICn) - (2025) - First Watch

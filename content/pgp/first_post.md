@@ -45,7 +45,7 @@ Read [this article](/pgp/why_pgp) on the subject.
 ### Where/how do I start?
 #### How does it work?
 In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:
-* Everyone has a **public** and **private** key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The **public** key is to be shared with everyone, but the **private** key should never leave your computer (hence the name). Here is [my public key](/0001syk.asc), download it.
+* Everyone has a **public** and **private** key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The **public** key is to be shared with everyone, but the **private** key should never leave your computer (hence the name). Here is [my public key](/syk.asc), download it.
 * To send me an encrypted message, you must write the message (in clear text), then encrypt it using my **public** key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don't need to understand it.
 
 #### Is there an app I can use?
