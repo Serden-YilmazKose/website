@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PGP on Serden-Yilmaz Kose</title>
-    <link>http://localhost:1313/tags/pgp/</link>
+    <link>http://sykose.xyz/tags/pgp/</link>
     <description>Recent content in PGP on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/pgp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sykose.xyz/tags/pgp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get started with PGP!</title>
-      <link>http://localhost:1313/pgp/first_post/</link>
+      <link>http://sykose.xyz/pgp/first_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pgp/first_post/</guid>
+      <guid>http://sykose.xyz/pgp/first_post/</guid>
       <description>Introduction to PGP messaging</description>
     </item>
   </channel>

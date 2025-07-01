@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Serden-Yilmaz Kose</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>http://sykose.xyz/tags/blog/</link>
     <description>Recent content in Blog on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jun 2025 00:56:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sykose.xyz/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bring back the meaning of words!</title>
-      <link>http://localhost:1313/blog/stop_saying_genius/</link>
+      <link>http://sykose.xyz/blog/stop_saying_genius/</link>
       <pubDate>Mon, 09 Jun 2025 00:56:14 -0500</pubDate>
-      <guid>http://localhost:1313/blog/stop_saying_genius/</guid>
+      <guid>http://sykose.xyz/blog/stop_saying_genius/</guid>
       <description>If you can solve a soduku puzzle, you are a genius!</description>
     </item>
   </channel>

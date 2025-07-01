@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Launch your site today! on Serden-Yilmaz Kose</title>
-    <link>http://localhost:1313/server/</link>
+    <link>http://sykose.xyz/server/</link>
     <description>Recent content in Launch your site today! on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/server/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sykose.xyz/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why and how to get a server (and website!)</title>
-      <link>http://localhost:1313/server/how-to-make-a-server/</link>
+      <link>http://sykose.xyz/server/how-to-make-a-server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/server/how-to-make-a-server/</guid>
+      <guid>http://sykose.xyz/server/how-to-make-a-server/</guid>
       <description>The simple steps you need to take to finally have a website.</description>
     </item>
     <item>
       <title>How to utilize your site.</title>
-      <link>http://localhost:1313/server/utilize-website/</link>
+      <link>http://sykose.xyz/server/utilize-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/server/utilize-website/</guid>
+      <guid>http://sykose.xyz/server/utilize-website/</guid>
       <description>Cool things you can do, now that you have your server and website.</description>
     </item>
   </channel>
