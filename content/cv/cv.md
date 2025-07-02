@@ -42,7 +42,7 @@ June 2025 - August 2025
 
 # Contact
 
-- 📧 [Email](mailto:serdenyilmazkose@protonmail.com)
+- 📧 [Email](mailto:kose@sykose.xyz)
 - 🌐 [Personal Website](https://sykose.xyz)
 - 💼 [Professional LinkedIn](https://linkedin.com/in/yourprofile)
 - [GitHub](https://github.com/Serden-YilmazKose)
