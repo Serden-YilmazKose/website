@@ -8,6 +8,8 @@
   </url><url>
     <loc>http://sykose.xyz/server/how-to-make-a-server/</loc>
   </url><url>
+    <loc>http://sykose.xyz/xmpp/xmpp/</loc>
+  </url><url>
     <loc>http://sykose.xyz/server/utilize-website/</loc>
   </url><url>
     <loc>http://sykose.xyz/pgp/why_pgp/</loc>
@@ -90,5 +92,7 @@
     <loc>http://sykose.xyz/tags/server/</loc>
   </url><url>
     <loc>http://sykose.xyz/tags/website/</loc>
+  </url><url>
+    <loc>http://sykose.xyz/xmpp/</loc>
   </url>
 </urlset>

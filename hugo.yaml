@@ -18,6 +18,8 @@ params:
     dateFormat: "2006-01-02"
     showPostTags: true
     buttons:
+      - name: Private chat server
+        url: "/xmpp/xmpp"
       - name: Playing Card Collection
         url: "/cards/cards"
       - name: Movies
@@ -66,7 +68,7 @@ params:
 
     - name: XMPP
       title: Use My XMPP Chat Server!
-      url: "https://chat.sykose.xyz"
+      url: "/xmpp/xmpp"
 
 taxonomies:
   tag: "tags"
