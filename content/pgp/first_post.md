@@ -6,9 +6,9 @@ showToc: true
 tocOpen: true
 weight: 1
 ---
-### What is "PGP"?
+# What is "PGP"?
 PGP stands for "[Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)", and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.
-### What do you mean by "encrypted message"?
+# What do you mean by "encrypted message"?
 An encrypted message means the message isn't read as clear text. It's the difference between this:
 ```txt
 This is a sample.
@@ -37,21 +37,22 @@ WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
 
 It's much harder to make any sense out of the encrypted text, right? Well, that's the point!
 
-### But GMail and WhatsApp tell me their website and my messages are encrypted!
+# But GMail and WhatsApp tell me their website and my messages are encrypted!
 Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn't to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we'll get into that later.
 
-### Why should I even care?
+# Why should I even care?
 Read [this article](/pgp/why_pgp) on the subject.
-### Where/how do I start?
-#### How does it work?
+# Where/how do I start?
+## How does it work?
 In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:
 * Everyone has a **public** and **private** key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The **public** key is to be shared with everyone, but the **private** key should never leave your computer (hence the name). Here is [my public key](/syk.asc), download it.
 * To send me an encrypted message, you must write the message (in clear text), then encrypt it using my **public** key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don't need to understand it.
 
-#### Is there an app I can use?
-There are dozens of PGP graphical software apps out there, but only one is known for it's ease of use; I personally find [Kleopatra](https://www.openpgp.org/software/kleopatra/) to be the standard when it comes to PGP messaging. Download it to follow the rest of this guide.
+## Is there an app I can use?
+There are dozens of PGP graphical software apps out there, but only one is known for it's ease of use; I personally find [Kleopatra](https://www.openpgp.org/software/kleopatra/) to be the standard when it comes to PGP messaging. Install it to follow the rest of this guide.\
+**NOTE**: Kleopatra is available on Windows, but you should ideally use Linux for an optimal experience.
 
-#### How to encrypt messages using Kleopatra?
+## How to encrypt messages using Kleopatra?
 Here are all the steps needed to start using Kleopatra:
 * Click on **File**, then click on **New OpenPGP Key Pair**.
 * Add your name and/or Email address (the information does not have to be authentic).
@@ -67,14 +68,14 @@ Here are all the steps needed to start using Kleopatra:
 
 Great! You now have a safely encrypted message. Send it to the recipient using the platform of your choice (E-Mail may be preferred).
 
-#### How to decrypt messages using Kleopatra?
+## How to decrypt messages using Kleopatra?
 Here are the steps to decrypt a PGP message using Kleopatra:
 * Paste the encrypted message into your notepad.
 * Click on "Decrypt/Verify Notepad"
 * If your private key is password-protected, type in the password when prompted.
 * The decrypted message should now appear in the notepad.
 
-### What else can I do with PGP?
+# What else can I do with PGP?
 Something you can do using PGP technology is digitally signing your messages. A PGP-signed message will look like this:
 ```pgp
 -----BEGIN PGP SIGNED MESSAGE-----
