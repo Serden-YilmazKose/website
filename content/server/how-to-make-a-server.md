@@ -3,6 +3,7 @@ title: "Why and how to get a server (and website!)"
 summary: The simple steps you need to take to finally have a website.
 tags: ['server', 'website', 'linux']
 weight: 1
+date: 2025-06-04
 showToc: true
 tocOpen: true
 ---

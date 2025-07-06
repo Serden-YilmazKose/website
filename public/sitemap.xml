@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sykose.xyz/pgp/first_post/</loc>
+    <loc>http://sykose.xyz/xmpp/xmpp/</loc>
+    <lastmod>2025-07-03T16:32:33-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/movies/movies/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/cards/cards/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/searx/how-to-use-searx/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/pgp/first_post/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/server/how-to-make-a-server/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/xmpp/xmpp/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/server/utilize-website/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/pgp/why_pgp/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/server/utilize-website/</loc>
+    <lastmod>2025-06-04T10:00:01-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/linux/</loc>
+    <lastmod>2025-07-03T16:32:33-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/privacy/</loc>
+    <lastmod>2025-07-03T16:32:33-05:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/</loc>
-    <lastmod>2025-06-29T00:24:36-05:00</lastmod>
-  </url><url>
-    <loc>http://sykose.xyz/tags/social/</loc>
-    <lastmod>2025-06-29T00:24:36-05:00</lastmod>
+    <lastmod>2025-07-03T16:32:33-05:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/tags/</loc>
+    <lastmod>2025-07-03T16:32:33-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/xmpp/</loc>
+    <lastmod>2025-07-03T16:32:33-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/social/</loc>
     <lastmod>2025-06-29T00:24:36-05:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/blog/american-youth/</loc>
@@ -28,6 +49,36 @@
   </url><url>
     <loc>http://sykose.xyz/tags/usa/</loc>
     <lastmod>2025-06-29T00:24:36-05:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/cards/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/cards/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/cinema/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/collection/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/movies/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/movies/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/searx/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/searx/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/searxng/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/security/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/tags/blog/</loc>
     <lastmod>2025-06-09T00:56:14-05:00</lastmod>
@@ -38,61 +89,31 @@
     <loc>http://sykose.xyz/blog/</loc>
     <lastmod>2025-06-09T00:54:34-05:00</lastmod>
   </url><url>
+    <loc>http://sykose.xyz/pgp/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/pgp/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://sykose.xyz/server/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/server/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://sykose.xyz/tags/website/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://sykose.xyz/tags/about/</loc>
   </url><url>
     <loc>http://sykose.xyz/about/</loc>
   </url><url>
-    <loc>http://sykose.xyz/cards/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/cards/</loc>
-  </url><url>
     <loc>http://sykose.xyz/categories/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/cinema/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/collection/</loc>
   </url><url>
     <loc>http://sykose.xyz/contact/</loc>
   </url><url>
     <loc>http://sykose.xyz/tags/contact/</loc>
   </url><url>
-    <loc>http://sykose.xyz/cv/cv/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/cv/</loc>
-  </url><url>
     <loc>http://sykose.xyz/tags/email/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/pgp/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/linux/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/movies/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/movies/movies/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/movies/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/pgp/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/cards/cards/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/privacy/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/searx/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/searx/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/searxng/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/security/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/server/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/tags/website/</loc>
-  </url><url>
-    <loc>http://sykose.xyz/xmpp/</loc>
   </url>
 </urlset>

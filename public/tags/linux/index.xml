@@ -6,27 +6,143 @@
     <description>Recent content in Linux on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jul 2025 16:32:33 -0500</lastBuildDate>
     <atom:link href="http://sykose.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XMPP Chat Server</title>
+      <link>http://sykose.xyz/xmpp/xmpp/</link>
+      <pubDate>Thu, 03 Jul 2025 16:32:33 -0500</pubDate>
+      <guid>http://sykose.xyz/xmpp/xmpp/</guid>
+      <description>Use a secure chat server.</description>
+      <content:encoded><![CDATA[<h1 id="what-is-xmpp">What Is XMPP?</h1>
+<p><a href="https://xmpp.org/">XMPP</a> is an encrypted, secure, and decentralized protocol that can be utilized for web chatting. Essentially, it&rsquo;s a much better version of IRC, and is much better than any of the mainstream messaging services.</p>
+<h1 id="how-do-i-register">How Do I Register?</h1>
+<p>Follow the following steps to start using XMPP messaging:</p>
+<ol>
+<li>Install an <a href="https://xmpp.org/software/?platform=linux">XMPP client</a>. Here are my recommendations:
+<ul>
+<li><strong>Linux</strong>: <a href="https://dino.im/">Dino</a></li>
+<li><strong>Windows</strong>: <a href="https://gajim.org/">Gajim</a>.</li>
+</ul>
+<blockquote>
+<p>Ideally, you should be using Linux for an optimal experience.</p></blockquote>
+</li>
+<li>Create an XMPP account.
+<ul>
+<li>Select any server, such as mine: <code>sykose.xyz</code>, and then enter a username and password. I recommend you use a password manager, and create a password with high entropy (randomness). Remember, anyone who types in your credentials can log into your account, there is no 2FA!</li>
+</ul>
+</li>
+<li>Start messaging!
+<ul>
+<li>Your account address will follow this format: <code>user@sykose.xyz</code>. Share it with your friends!</li>
+</ul>
+</li>
+</ol>
+<h1 id="how-can-i-host-an-xmpp-server">How Can I Host An XMPP Server?</h1>
+<p>It&rsquo;s very easy, I simply followed <a href="https://landchad.net/prosody/">this guide</a>. It should take you no more than 20 minutes.
+<strong>NOTE</strong>: There are many features (modules) you can enable/disable, so read up on the documentation.</p>
+<h1 id="my-credentials">My Credentials</h1>
+<p>Message me on my public account: <code>kose@sykose.xyz</code></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Get started with PGP!</title>
       <link>http://sykose.xyz/pgp/first_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/pgp/first_post/</guid>
       <description>Introduction to PGP messaging</description>
+      <content:encoded><![CDATA[<h1 id="what-is-pgp">What is &ldquo;PGP&rdquo;?</h1>
+<p>PGP stands for &ldquo;<a href="https://en.wikipedia.org/wiki/Pretty_Good_Privacy">Pretty Good Privacy</a>&rdquo;, and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.</p>
+<h1 id="what-do-you-mean-by-encrypted-message">What do you mean by &ldquo;encrypted message&rdquo;?</h1>
+<p>An encrypted message means the message isn&rsquo;t read as clear text. It&rsquo;s the difference between this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>This is a sample.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>This is a sample text file.  I created it with an editor.  If it were
+</span></span><span style="display:flex;"><span>an actual message, it would contain some useful information.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>This has been a sample.
+</span></span></code></pre></div><p>and this:</p>
+<pre tabindex="0"><code class="language-pgp" data-lang="pgp">-----BEGIN PGP MESSAGE-----
+Version: 2.6.2
+
+hIwD1vwet/TdJfEBBACdcCPkNI3kRwYqtHUyfpvVAY5rt+Lb9P6EztNd4sYq9egV
+CZjfqcCn36XZmYPbbO6nZbl992kPRFzTgCRszKNPtlk6Wa93AqXs3KCZp+4emXQh
+7moE+XTf4QUGJZ2L3w/sSNs5WFkZRIbto0ivK1aRlX1XTqhPqo9HbgEfElBVUaYA
+AACQEWaOS3/h6BVLHTfXaK20vmLcg9BUisB5RDvYGLZv9XFwHMMjctFJJQYnWIOp
++7LLkmNO5fE48rWh0EOAwjAeduGzJGQb4yiE7OlxoESmmTJQ+qO1K2nDz8Stk3a6
+WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
+/Qfi
+=xTV9
+-----END PGP MESSAGE-----
+</code></pre><p>*Example provided by <a href="https://people.cs.rutgers.edu/~watrous/pgp-eat.html">Rutgers&rsquo; University&rsquo;s Computer Science Department</a>.</p>
+<p>It&rsquo;s much harder to make any sense out of the encrypted text, right? Well, that&rsquo;s the point!</p>
+<h1 id="but-gmail-and-whatsapp-tell-me-their-website-and-my-messages-are-encrypted">But GMail and WhatsApp tell me their website and my messages are encrypted!</h1>
+<p>Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn&rsquo;t to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we&rsquo;ll get into that later.</p>
+<h1 id="why-should-i-even-care">Why should I even care?</h1>
+<p>Read <a href="/pgp/why_pgp">this article</a> on the subject.</p>
+<h1 id="wherehow-do-i-start">Where/how do I start?</h1>
+<h2 id="how-does-it-work">How does it work?</h2>
+<p>In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:</p>
+<ul>
+<li>Everyone has a <strong>public</strong> and <strong>private</strong> key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The <strong>public</strong> key is to be shared with everyone, but the <strong>private</strong> key should never leave your computer (hence the name). Here is <a href="/syk.asc">my public key</a>, download it.</li>
+<li>To send me an encrypted message, you must write the message (in clear text), then encrypt it using my <strong>public</strong> key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don&rsquo;t need to understand it.</li>
+</ul>
+<h2 id="is-there-an-app-i-can-use">Is there an app I can use?</h2>
+<p>There are dozens of PGP graphical software apps out there, but only one is known for it&rsquo;s ease of use; I personally find <a href="https://www.openpgp.org/software/kleopatra/">Kleopatra</a> to be the standard when it comes to PGP messaging. Install it to follow the rest of this guide.<br>
+<strong>NOTE</strong>: Kleopatra is available on Windows, but you should ideally use Linux for an optimal experience.</p>
+<h2 id="how-to-encrypt-messages-using-kleopatra">How to encrypt messages using Kleopatra?</h2>
+<p>Here are all the steps needed to start using Kleopatra:</p>
+<ul>
+<li>Click on <strong>File</strong>, then click on <strong>New OpenPGP Key Pair</strong>.</li>
+<li>Add your name and/or Email address (the information does not have to be authentic).</li>
+<li>Optional: Password protect your key (I highly recommend this).</li>
+<li>Choose the Key Material. Go with the default if you don&rsquo;t know the differences in key material.</li>
+<li>Optional: Choose expiration date of the key.</li>
+<li>If you chose to password protect your key, type in your password in the field. Type it again to verify.</li>
+<li>Click OK, and voila! Your key has been created.</li>
+<li>Right click on your key from the main menu, and click on &ldquo;Export&rdquo;. Save the <strong>public</strong> key to a .asc file, and share it around!</li>
+<li>To encrypt a message, go to &ldquo;Notepad&rdquo; on the taskbar. Type in your message.</li>
+<li>Select the recipient&rsquo;s public key under &ldquo;Encrypt for others&rdquo;.</li>
+<li>Click on &ldquo;Encrypt Notepad&rdquo;, and there is your encrypted message!</li>
+</ul>
+<p>Great! You now have a safely encrypted message. Send it to the recipient using the platform of your choice (E-Mail may be preferred).</p>
+<h2 id="how-to-decrypt-messages-using-kleopatra">How to decrypt messages using Kleopatra?</h2>
+<p>Here are the steps to decrypt a PGP message using Kleopatra:</p>
+<ul>
+<li>Paste the encrypted message into your notepad.</li>
+<li>Click on &ldquo;Decrypt/Verify Notepad&rdquo;</li>
+<li>If your private key is password-protected, type in the password when prompted.</li>
+<li>The decrypted message should now appear in the notepad.</li>
+</ul>
+<h1 id="what-else-can-i-do-with-pgp">What else can I do with PGP?</h1>
+<p>Something you can do using PGP technology is digitally signing your messages. A PGP-signed message will look like this:</p>
+<pre tabindex="0"><code class="language-pgp" data-lang="pgp">-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hello, this message is digitally signed.
+Everyone can both read the content.
+You can verify I am the true author of this message.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQR657wQ2YpjkKxAywZa2EuFS5oaQQUCaEO/WQAKCRBa2EuFS5oa
+QSV5AQCgixyVnTNgdReMdu6GFGZ/2aj5YVGOafTfMM15FZtPtQD/bKdxnB+0ZTes
+zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM=
+=E81E
+-----END PGP SIGNATURE-----
+</code></pre><p>The message goes under <code>BEGIN PGP SIGNED MESSAGE</code>, and the actual digital signature goes under <code>BEGIN PGP SIGNATURE</code>.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Why and how to get a server (and website!)</title>
       <link>http://sykose.xyz/server/how-to-make-a-server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/server/how-to-make-a-server/</guid>
       <description>The simple steps you need to take to finally have a website.</description>
-    </item>
-    <item>
-      <title>XMPP Chat Server</title>
-      <link>http://sykose.xyz/xmpp/xmpp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/xmpp/xmpp/</guid>
-      <description>Use a secure chat server.</description>
+      <content:encoded><![CDATA[<h2 id="why-need-a-server">Why need a server?</h2>
+<p>Owning a server, or renting one, is the easiest way to host your own website online. Although GitHub, and other platform, offer ways to host your own website, they will leave you with many limitations. When you own the server, you can start hosting a lot of services! To learn more about what to do with your website, refer to <a href="/server/utilize-website">this article I wrote</a>.</p>
+<h2 id="how-to-get-one">How to get one</h2>
+<p>If you want to get and maintain, but don&rsquo;t want to get a headache over the smallest issues, I cannot recommend <a href="https://landchad.net">Luke Smith&rsquo;s website</a> any stronger. Stop being an internet peasant, and become an internet landlord!</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

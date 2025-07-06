@@ -4,7 +4,8 @@ summary: "Learn about my playing card collection"
 tags: ['cards', 'collection']
 showToc: true
 tocOpen: true
-<!-- weight: 1 -->
+date: 2025-06-17
+weight: 1
 ---
 
 

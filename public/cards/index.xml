@@ -6,13 +6,54 @@
     <description>Recent content in Cards on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://sykose.xyz/cards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playing Cards Collection</title>
       <link>http://sykose.xyz/cards/cards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/cards/cards/</guid>
       <description>Learn about my playing card collection</description>
+      <content:encoded><![CDATA[<!-- # Playing Cards -->
+<h2 id="collection">Collection</h2>
+<p>Alongside my hobby of card magic and sleight of hands, I collect unique playing cards from all around the world. My collection seeks to have one deck of cards originating from every country in the world. A goal that ambitious may take years, but I will try.</p>
+<h3 id="rules-of-the-collection">Rules of the Collection</h3>
+<p>I have made some some strict rules around my collection.</p>
+<ul>
+<li>The cards must somehow represent the country, in any manner. It could be from imagery from that country, or a simple &ldquo;Made in _______&rdquo; on the deck.</li>
+<li>I, or a person I know, must purchase the deck in it&rsquo;s country of origin.</li>
+<li>The deck cannot be bought online.</li>
+<li>The deck must be of the <a href="https://en.wikipedia.org/wiki/Standard_52-card_deck">standard 52-card deck</a>, meaning it has four suits (Spades, Diamonds, Clubs, and Hearts), running from the Ace to the King</li>
+</ul>
+<h3 id="countries-collected">Countries Collected</h3>
+<!-- The following is a world map, highlighting the countries from which I’ve collected a deck: -->
+<p>The following is a list of countries from which I&rsquo;ve collected a deck of playing cards:</p>
+<ul>
+<li>Austria</li>
+<li>Croatia</li>
+<li>Czech Republic</li>
+<li>Finland</li>
+<li>Germany</li>
+<li>Iceland</li>
+<li>Italy</li>
+<li>Norway</li>
+<li>Poland</li>
+<li>Romania</li>
+<li>Spain</li>
+<li>Sweden</li>
+<li>United Kingdom</li>
+<li>United States of America</li>
+</ul>
+<!-- ![Map of playing card collection](https://wiki.sykose.xyz/lib/exe/fetch.php?media=mapchart_map.png) -->
+<h2 id="my-favorite-deck">My Favorite Deck</h2>
+<p>My favorite deck of playing cards is, drumroll please&hellip; a standard Bicycle! The United States Playing Card Company (USPCC) make the best playing cards for the price, you get the greatest bang for you buck. The following is a list explaining why I prefer standard Bicycles:</p>
+<ul>
+<li>Cheap! They&rsquo;re only around $3, and they can last a very long time (depending on how I use them). For casual games, it can last months, and for magic, it could last a couple of weeks.</li>
+<li>Reliable. You can find them in many convenience stores. And trust me, I cannot detach my eyes from the 2-pack Bicycle decks next to the register at Walmart.</li>
+<li>Durability. With the same single deck, I have played cards for months, practiced hours and hours of sleight of hand, brought them with me into a humid sauna, and even showered with them! And, after drying, the cards still felt smooth and were still usable for playing games. Although, people tend to lose interest when they learn the cards have been in the shower.</li>
+<li>Recognition. The back of a standard Bicycle card is globally recognized as the most popular type of playing card. Internet and street magician magicbyspaz explains that idea in <a href="https://youtu.be/SNOfpTQrWU4?si=_t5NVSntC9qDaxLs">this video</a>.</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

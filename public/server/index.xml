@@ -6,21 +6,33 @@
     <description>Recent content in Launch your site today! on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 10:00:01 -0500</lastBuildDate>
     <atom:link href="http://sykose.xyz/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why and how to get a server (and website!)</title>
       <link>http://sykose.xyz/server/how-to-make-a-server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/server/how-to-make-a-server/</guid>
       <description>The simple steps you need to take to finally have a website.</description>
+      <content:encoded><![CDATA[<h2 id="why-need-a-server">Why need a server?</h2>
+<p>Owning a server, or renting one, is the easiest way to host your own website online. Although GitHub, and other platform, offer ways to host your own website, they will leave you with many limitations. When you own the server, you can start hosting a lot of services! To learn more about what to do with your website, refer to <a href="/server/utilize-website">this article I wrote</a>.</p>
+<h2 id="how-to-get-one">How to get one</h2>
+<p>If you want to get and maintain, but don&rsquo;t want to get a headache over the smallest issues, I cannot recommend <a href="https://landchad.net">Luke Smith&rsquo;s website</a> any stronger. Stop being an internet peasant, and become an internet landlord!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>How to utilize your site.</title>
       <link>http://sykose.xyz/server/utilize-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jun 2025 10:00:01 -0500</pubDate>
       <guid>http://sykose.xyz/server/utilize-website/</guid>
       <description>Cool things you can do, now that you have your server and website.</description>
+      <content:encoded><![CDATA[<h3 id="cool-i-have-a-website-what-now">Cool, I have a website. What now?</h3>
+<p>You are now on your own, you have to decide how you want to use your website. Would you like to make a blog, or use your website as a portfolio/CV? Would you like to self-host services like an email server, search engine, Wiki page, and many more? Well, you now can. You can get started with <a href="https://landchad.net//#build-your-own-platform">Luke Smith&rsquo;s list of self-hosting services</a>.</p>
+<h3 id="i-dont-know-where-to-start-what-should-i-host">I don&rsquo;t know where to start, what should I host?</h3>
+<p>If your server can handle it, I would recommend hosting <a href="https://landchad.net/searxng/">your own search engine</a>. A search engine is likely your most used and utilized service, so you may want a little bit of privacy.</p>
+<h3 id="my-websites-page-looks-ugly-how-can-i-make-it-look-better">My website&rsquo;s page looks ugly, how can I make it look better?</h3>
+<p>You don&rsquo;t need to be an expert on HTML and CSS to have a nice looking website, all you need to do is use code other&rsquo;s have already made! I recommend you use <a href="https://gohugo.io/">Hugo</a>, a framework to quickly build static yet beautiful websites. Read up on the documentation. I am using the <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a>, as probably made apparent on the bottom of the page.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

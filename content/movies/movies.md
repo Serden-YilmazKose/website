@@ -4,7 +4,8 @@ summary: "An elaborate guide on how to find and enjoy movies as a hobby. "
 tags: ['movies', 'cinema']
 showToc: true
 tocOpen: true
-<!-- weight: 1 -->
+date: 2025-06-17
+weight: 1
 ---
 
 # Movies

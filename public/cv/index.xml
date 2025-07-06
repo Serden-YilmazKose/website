@@ -2,19 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cvs on Serden-Yilmaz Kose</title>
-    <link>http://sykose.xyz/cv/</link>
+    <link>http://localhost:1313/cv/</link>
     <description>Recent content in Cvs on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <atom:link href="http://sykose.xyz/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae - Serden-Yilmaz Kose</title>
-      <link>http://sykose.xyz/cv/cv/</link>
+      <link>http://localhost:1313/cv/lol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/cv/cv/</guid>
+      <guid>http://localhost:1313/cv/lol/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
 &lt;!-- Detail-oriented Computer Science and Engineering student with a passion for Linux and Artificial Intelligence. --&gt;
 &lt;p&gt;As an aspiring Bachelor&amp;rsquo;s Degree student studying Computer Science and Engineering with a specialization in Artifici Intelligence at the University of Oulu, I possess and practice many skills and interests that will serve me in my professional career, including my proficiency in several computer languages to exchanging dialogue with people in spoken languages.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="about-me">About Me</h1>
+<!-- Detail-oriented Computer Science and Engineering student with a passion for Linux and Artificial Intelligence. -->
+<p>As an aspiring Bachelor&rsquo;s Degree student studying Computer Science and Engineering with a specialization in Artifici Intelligence at the University of Oulu, I possess and practice many skills and interests that will serve me in my professional career, including my proficiency in several computer languages to exchanging dialogue with people in spoken languages.</p>
+<h1 id="skills">Skills</h1>
+<ul>
+<li>Programming: Python, Java, SQL, C, C++, GoHugo</li>
+<li>Tools: Git, Linux, Vim</li>
+<li>Languages: English, French, Turkish, Arabic, Finnish (Intermediate)</li>
+</ul>
+<h1 id="education">Education</h1>
+<p><strong>B.Sc. in Computer Science &amp; Engineering</strong></p>
+<ul>
+<li>University of Oulu, 2022–2025</li>
+<li>Specialization: Artificial Intelligence</li>
+<li>Thesis: <a href="https://oulurepo.oulu.fi/handle/10024/56637">AISTI - AI-Powered Journal: Bridging Technology and Personal Reflection</a></li>
+</ul>
+<p><strong>High School Diploma</strong></p>
+<ul>
+<li>Dwight Morrow High School, 2020-2022
+<ul>
+<li>Varsity Wrestler, 190lbs weight class</li>
+</ul>
+</li>
+<li>Nile Arabic Center, 2018-2022
+<ul>
+<li>Language Certification: C1 in Modern Standard Arabic</li>
+</ul>
+</li>
+</ul>
+<h1 id="projects">Projects</h1>
+<ul>
+<li><strong><a href="https://aisti.rahtiapp.fi">Aisti</a></strong>: A journaling app with Auth0, MySQL, and GPT-assisted guidance.</li>
+<li><strong><a href="https://github.com/Serden-YilmazKose/NLP-Project-5">Exploring Zipf’s Law in Reddit Hate Speech Corpora</a></strong>: Analyzing semantic properties and trends from a database of over 40,000 Reddit hate comments.</li>
+</ul>
+<h1 id="experience">Experience</h1>
+<p><strong>Software Intern</strong>
+June 2025 - August 2025</p>
+<h1 id="contact">Contact</h1>
+<ul>
+<li>📧 <a href="mailto:kose@sykose.xyz">Email</a></li>
+<li>🌐 <a href="https://sykose.xyz">Personal Website</a></li>
+<li>💼 <a href="https://linkedin.com/in/yourprofile">Professional LinkedIn</a></li>
+<li><a href="https://github.com/Serden-YilmazKose">GitHub</a></li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

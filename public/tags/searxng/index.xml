@@ -6,13 +6,21 @@
     <description>Recent content in SearXNG on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://sykose.xyz/tags/searxng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Use SearX</title>
       <link>http://sykose.xyz/searx/how-to-use-searx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/searx/how-to-use-searx/</guid>
       <description>Configure your browser to use SearX</description>
+      <content:encoded><![CDATA[<h3 id="what-is-searx">What is SearX?</h3>
+<p>SearX is a multi-layered open source search engine that pulls results from tens of search engines to give you the most &ldquo;accurate&rdquo; results. Since it&rsquo;s open sourced, you can be assured it is much more secure and private than any other mainstream search engine.</p>
+<h3 id="do-i-have-to-code-something">Do I have to code something?</h3>
+<p>No. You can simply use my instance. If you want to set up your own instance, you should first <a href="/server">get your own server</a>, then follow <a href="https://landchad.net/searxng">this guide</a> to set up your SearX server. It should easily take less than 15 minutes for a basic installation.</p>
+<h3 id="how-can-i-use-your-searx-instance-in-my-own-browser">How can I use your SearX instance in my own browser?</h3>
+<p>Depends on the browser you have. On Firefox, you have to visit <a href="https://searx.sykose.xyz">my SearX instance</a>, and right-click on the URL bar. Then, click on <code>Add &quot;SearXNG&quot;</code>. Then, go to your Firefox settings, go to <code>Search</code>, and verify the <code>Default Search Engine</code> is <code>SearXNG</code>. Now, anything you search in your search bar should take you to my SearX instance.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

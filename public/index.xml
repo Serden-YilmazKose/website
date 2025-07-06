@@ -6,49 +6,532 @@
     <description>Recent content on Serden-Yilmaz Kose</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jun 2025 00:24:36 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 16:32:33 -0500</lastBuildDate>
     <atom:link href="http://sykose.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Get started with PGP!</title>
-      <link>http://sykose.xyz/pgp/first_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/pgp/first_post/</guid>
-      <description>Introduction to PGP messaging</description>
+      <title>XMPP Chat Server</title>
+      <link>http://sykose.xyz/xmpp/xmpp/</link>
+      <pubDate>Thu, 03 Jul 2025 16:32:33 -0500</pubDate>
+      <guid>http://sykose.xyz/xmpp/xmpp/</guid>
+      <description>Use a secure chat server.</description>
+      <content:encoded><![CDATA[<h1 id="what-is-xmpp">What Is XMPP?</h1>
+<p><a href="https://xmpp.org/">XMPP</a> is an encrypted, secure, and decentralized protocol that can be utilized for web chatting. Essentially, it&rsquo;s a much better version of IRC, and is much better than any of the mainstream messaging services.</p>
+<h1 id="how-do-i-register">How Do I Register?</h1>
+<p>Follow the following steps to start using XMPP messaging:</p>
+<ol>
+<li>Install an <a href="https://xmpp.org/software/?platform=linux">XMPP client</a>. Here are my recommendations:
+<ul>
+<li><strong>Linux</strong>: <a href="https://dino.im/">Dino</a></li>
+<li><strong>Windows</strong>: <a href="https://gajim.org/">Gajim</a>.</li>
+</ul>
+<blockquote>
+<p>Ideally, you should be using Linux for an optimal experience.</p></blockquote>
+</li>
+<li>Create an XMPP account.
+<ul>
+<li>Select any server, such as mine: <code>sykose.xyz</code>, and then enter a username and password. I recommend you use a password manager, and create a password with high entropy (randomness). Remember, anyone who types in your credentials can log into your account, there is no 2FA!</li>
+</ul>
+</li>
+<li>Start messaging!
+<ul>
+<li>Your account address will follow this format: <code>user@sykose.xyz</code>. Share it with your friends!</li>
+</ul>
+</li>
+</ol>
+<h1 id="how-can-i-host-an-xmpp-server">How Can I Host An XMPP Server?</h1>
+<p>It&rsquo;s very easy, I simply followed <a href="https://landchad.net/prosody/">this guide</a>. It should take you no more than 20 minutes.
+<strong>NOTE</strong>: There are many features (modules) you can enable/disable, so read up on the documentation.</p>
+<h1 id="my-credentials">My Credentials</h1>
+<p>Message me on my public account: <code>kose@sykose.xyz</code></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Movies</title>
+      <link>http://sykose.xyz/movies/movies/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://sykose.xyz/movies/movies/</guid>
+      <description>An elaborate guide on how to find and enjoy movies as a hobby.</description>
+      <content:encoded><![CDATA[<h1 id="movies">Movies</h1>
+<h2 id="how-i-watch-movies">How I Watch Movies</h2>
+<p>An issue I see in many people, both cinema-buffs and regular viewers, is a chain of bad habits when it comes to watching films. One habit I always avoid is to learn anything about a movie beforehand. I do not watch the trailers, I do not read the description, I do not look at any reviews, and I usually even avoid the genres of the movies! Think of watching movies as a more relaxed version of reading a book. Would you prefer to read or watch the equivalent of a trailer before reading the book? I wouldn&rsquo;t, as it wouldn&rsquo;t make the experience as honest as it should be.</p>
+<p>Another problem you may have that suffocates and dampens the experience of watching movies is the act of doing other things as you watch the movie. Again, would you browse Reddit as you are reading a book, or start eating your dinner? Movies are a high-level form of entertainment; the crew behind each movie put in a lot of effort to produce the content they are releasing, and every detail is taken into account. When you don&rsquo;t give a movie your undivided attention, you miss many details you would catch had you have been more attentive. The consequence of such an action is leaving the movie feeling unsatisfied, thinking the movie you just watched was bland and mild.</p>
+<p>Finally, you should always try to avoid knowing how much of a movie you have seen, and how much of the movie is remaining. In movie theaters, this is very easy since there is no status bar on the screen (and your phone shouldn&rsquo;t tell you the time, as you shouldn&rsquo;t be using it). However, if you are watching a movie from home, you should simply avoid moving the cursor around, and that will hide the user interface. The reason behind avoiding knowing the progress of a current movie comes down to this; you should focus more on the plot than the length of the movie. As you start watching more movies, you start getting a feeling to when the movie is about to end. However, if you know that by lazily checking the progress bar, it adds a barrier between yourself and the movie. You have to immerse yourself in the movie.</p>
+<p>The following is a list explaining the process behind how I watch movies:</p>
+<ul>
+<li>Pick a movie from my <a href="#movies-in-my-watchlist">watchlist</a>.</li>
+<li>Select a time and date to watch it. I avoid watching movies late into the night, as I get sleepy during the movie.</li>
+<li>Grab some water or light fruits.</li>
+<li>Open the movie, and disable the progress bar.</li>
+<li>Do not use your phone or anything that may distract you.</li>
+<li>If I have to use the bathroom, pause the movie (but don&rsquo;t check the progress).</li>
+<li>When the movie ends, discuss details of the movie with my friends (if present), then log it on <a href="https://letterboxd.com/">Letterboxd</a>.</li>
+</ul>
+<h2 id="how-i-find-movies">How I Find Movies</h2>
+<p>Finding movies is a tricky element many beginners may struggle with, I certainly did. No tool has been more useful than my <a href="https://letterboxd.com/LieutenantYoung/">Letterboxd account</a>. It helps me track movies I have seen, the rating I gave it, movies in my watchlist, movie lists, etc&hellip; Near the beginning, it was very empty, but I slowly filled it up with the movies I watched. A rule I have is to not log a movie I haven&rsquo;t just seen; effectively, I log a movie right after watching it. Many of the movies in my watchlist are recommendations from people I know, but some of them aren&rsquo;t. That begs the question, how do I find interesting movies to watch?</p>
+<p>A great medium for finding movies would be user-created lists on Letterboxd. If you are interested in a specific type of cinema, search for it on Letterboxd, and I am sure there will be a list of movies fitting that category. And if you are really serious, you will commit yourself to complete the list by watch all movies in the list.</p>
+<p>If those lists don&rsquo;t cut it, you could use <a href="https://letterboxd.tools/Recommendation_system/">Toolboxd</a>&rsquo;s recommendation system. Just enter your Letterboxd username, tinker around with the parameters, and find new movies to add to your watchlist!</p>
+<p>Q) But I can&rsquo;t find any //good// movies!
+A) Great! Watching the bad movies is just as important as watching the good ones. You cannot truly enjoy the art of cinema if you don&rsquo;t see the &ldquo;bad&rdquo; side of it. To better enjoy the good movies, you have to watch the bad ones. And don&rsquo;t let your prejudgment deter you. One of my favorite movies is about <a href="https://boxd.it/1Nkg">two teenagers flipping burgers</a>! It does help to watch the bad movies with some friends, but I usually have no problem watching them alone.</p>
+<h2 id="how-i-rate-movies">How I Rate Movies</h2>
+<p>The best advice I can give to rating movies is to simply not overthink it. After watching a movie, how likely are you to watch it again? Recommend it to a friend? Would you produce or direct that movie? How entertaining and solid was the plot?</p>
+<p>On Letterboxd, ratings range from 1/2 star to 5 stars. Personally, movies default at 3 stars. So, at the beginning of each movie, I give it a rating of 3 stars. As the movie progresses, the rating goes up and down. When the movie ends, I give it a final rating.</p>
+<p><strong>ONLY</strong> change the rating of a movie if you watch it again! Don&rsquo;t retroactively change the rating, as a rating can only be honest if it is given <strong>directly</strong> after watching the movie! I have rewatched movies several times, but rarely change the rating; my ratings for rewatches tend to say the same.</p>
+<p><strong>NOTE</strong>: I personally believe your movie ratings should plot an <em>almost</em> even <a href="https://en.wikipedia.org/wiki/Normal_distribution">normal distribution</a>. This would show that you watch as many bad movies as you do watch good movies. The proof is in the pudding:
+<img alt="My Letterboxd ratings distributions" loading="lazy" src="https://wiki.sykose.xyz/lib/exe/fetch.php?media=screenshot_2025-05-31_at_21-49-49_lieutenantyoung_s_profile_letterboxd.png"></p>
+<h1 id="list-of-movies-i-have-watched">List of Movies I Have Watched</h1>
+<p>The following are the movies I have watched since the beginning of my movie journey.</p>
+<p><strong>NOTE</strong>: I will update this month at the end of each month, probably.</p>
+<h2 id="2025">2025</h2>
+<h3 id="june">June</h3>
+<ul>
+<li><strong>2025-06-27</strong> - <a href="https://boxd.it/a8Wvth">Apollo 13</a> - (1995) - First Watch</li>
+<li><strong>2025-06-20</strong> - <a href="https://boxd.it/a4xLEz">A Man Called Otto</a> - (2022) - First Watch</li>
+<li><strong>2025-06-19</strong> - <a href="https://boxd.it/a3VXuv">Tony Hawk: Until the Wheels Fall Off</a> - (2022) - First Watch</li>
+<li><strong>2025-06-16</strong> - <a href="https://boxd.it/a1UL9b">Would I Lie to You? 2</a> - (2001) - Rewatch</li>
+<li><strong>2025-06-16</strong> - <a href="https://boxd.it/a1UKB9">Would I Lie to You?</a> - (1997) - Rewatch</li>
+<li><strong>2025-06-05</strong> - <a href="https://boxd.it/9UMlEX">Shot Caller</a> - (2017) - First Watch</li>
+<li><strong>2025-06-03</strong> - <a href="https://boxd.it/9TKfL1">Good Burger 2</a> - (2023) - Rewatch</li>
+</ul>
+<h3 id="may">May</h3>
+<ul>
+<li><strong>2025-05-30</strong> - <a href="https://boxd.it/9RcdEr">Are We There Yet?</a> - (2005) - Rewatch</li>
+<li><strong>2025-05-26</strong> - <a href="https://boxd.it/9OAICn">A Minecraft Movie</a> - (2025) - First Watch</li>
+<li><strong>2025-05-24</strong> - <a href="https://boxd.it/9NjglP">Daddy Day Care</a> - (2003) - Rewatch</li>
+<li><strong>2025-05-23</strong> - <a href="https://boxd.it/9MEKy3">Dumb and Dumber</a> - (1994) - Rewatch</li>
+<li><strong>2025-05-17</strong> - <a href="https://boxd.it/9ITjwj">Would I Lie to You? 2</a> - (2001) - Rewatch</li>
+<li><strong>2025-05-17</strong> - <a href="https://boxd.it/9ITjbF">Hillbilly Elegy</a> - (2020) - First Watch</li>
+<li><strong>2025-05-17</strong> - <a href="https://boxd.it/9ITisP">Would I Lie to You?</a> - (1997) - Rewatch</li>
+<li><strong>2025-05-17</strong> - <a href="https://boxd.it/9IozJV">Gayniggers from Outer Space</a> - (1992) - First Watch</li>
+<li><strong>2025-05-14</strong> - <a href="https://boxd.it/9H3No7">The Brother from Another Planet</a> - (1984) - First Watch</li>
+<li><strong>2025-05-08</strong> - <a href="https://boxd.it/9DOJ4b">The Game</a> - (1997) - First Watch</li>
+<li><strong>2025-05-08</strong> - <a href="https://boxd.it/9DmpOd">Requiem for a Dream</a> - (2000) - Rewatch</li>
+<li><strong>2025-05-07</strong> - <a href="https://boxd.it/9Del6l">Kamome Diner</a> - (2006) - First Watch</li>
+<li><strong>2025-05-06</strong> - <a href="https://boxd.it/9Cnuzv">Parasite</a> - (2019) - First Watch</li>
+</ul>
+<h3 id="april">April</h3>
+<ul>
+<li><strong>2025-04-30</strong> - <a href="https://boxd.it/9z0fop">The White Tiger</a> - (2021) - Rewatch</li>
+<li><strong>2025-04-27</strong> - <a href="https://boxd.it/9xkoVp">Catch Me If You Can</a> - (2002) - First Watch</li>
+<li><strong>2025-04-26</strong> - <a href="https://boxd.it/9wIpVT">Rounders</a> - (1998) - Rewatch</li>
+<li><strong>2025-04-23</strong> - <a href="https://boxd.it/9v8X8l">Five Nights at Freddy&rsquo;s</a> - (2023) - First Watch</li>
+<li><strong>2025-04-19</strong> - <a href="https://boxd.it/9skmbf">Juror #2</a> - (2024) - First Watch</li>
+<li><strong>2025-04-18</strong> - <a href="https://boxd.it/9rDUX7">Taxi</a> - (1998) - First Watch</li>
+<li><strong>2025-04-16</strong> - <a href="https://boxd.it/9qzAlP">The World&rsquo;s End</a> - (2013) - First Watch</li>
+<li><strong>2025-04-13</strong> - <a href="https://boxd.it/9oVaZv">Nothing to Declare</a> - (2010) - First Watch</li>
+<li><strong>2025-04-13</strong> - <a href="https://boxd.it/9oNfiZ">The Valet</a> - (2006) - First Watch</li>
+<li><strong>2025-04-09</strong> - <a href="https://boxd.it/9mG8Uv">Inception</a> - (2010) - Rewatch</li>
+<li><strong>2025-04-06</strong> - <a href="https://boxd.it/9l2qcR">Retirement Home</a> - (2022) - First Watch</li>
+<li><strong>2025-04-05</strong> - <a href="https://boxd.it/9kcPyf">Would I Lie to You?</a> - (1997) - Rewatch</li>
+<li><strong>2025-04-03</strong> - <a href="https://boxd.it/9j9zOB">Cast Away</a> - (2000) - First Watch</li>
+<li><strong>2025-04-02</strong> - <a href="https://boxd.it/9iIjMv">Memento</a> - (2000) - First Watch</li>
+</ul>
+<h3 id="march">March</h3>
+<ul>
+<li><strong>2025-03-29</strong> - <a href="https://boxd.it/9fXqp7">Nothing to Hide</a> - (2018) - First Watch</li>
+<li><strong>2025-03-26</strong> - <a href="https://boxd.it/9eP1bT">The Grand Budapest Hotel</a> - (2014) - First Watch</li>
+<li><strong>2025-03-23</strong> - <a href="https://boxd.it/9cC8nX">Agneepath</a> - (2012) - First Watch</li>
+<li><strong>2025-03-20</strong> - <a href="https://boxd.it/9bbReD">Escape from Alcatraz</a> - (1979) - Rewatch</li>
+<li><strong>2025-03-20</strong> - <a href="https://boxd.it/9aWWGH">Lawrence of Arabia</a> - (1962) - First Watch</li>
+<li><strong>2025-03-17</strong> - <a href="https://boxd.it/99nG5V">Yannick</a> - (2023) - First Watch</li>
+<li><strong>2025-03-16</strong> - <a href="https://boxd.it/997jCP">Would I Lie to You? 3</a> - (2012) - First Watch</li>
+<li><strong>2025-03-14</strong> - <a href="https://boxd.it/97ipoN">The Dinner Game</a> - (1998) - Rewatch</li>
+<li><strong>2025-03-12</strong> - <a href="https://boxd.it/96GX3D">A Separation</a> - (2011) - Rewatch</li>
+<li><strong>2025-03-12</strong> - <a href="https://boxd.it/96rR75">The Arrival of a Train at La Ciotat</a> - (1896) - First Watch</li>
+<li><strong>2025-03-12</strong> - <a href="https://boxd.it/96hAFT">Would I Lie to You? 2</a> - (2001) - First Watch</li>
+<li><strong>2025-03-11</strong> - <a href="https://boxd.it/95UO1d">The Mad Adventures of Rabbi Jacob</a> - (1973) - First Watch</li>
+<li><strong>2025-03-09</strong> - <a href="https://boxd.it/94UorZ">Would I Lie to You?</a> - (1997) - First Watch</li>
+<li><strong>2025-03-09</strong> - <a href="https://boxd.it/94AJfb">Amadeus</a> - (1984) - First Watch</li>
+<li><strong>2025-03-08</strong> - <a href="https://boxd.it/94iQiZ">Safety Last!</a> - (1923) - First Watch</li>
+<li><strong>2025-03-08</strong> - <a href="https://boxd.it/93szbD">Caché</a> - (2005) - First Watch</li>
+<li><strong>2025-03-07</strong> - <a href="https://boxd.it/93ainr">The Red Balloon</a> - (1956) - First Watch</li>
+<li><strong>2025-03-07</strong> - <a href="https://boxd.it/92Sphp">Million Dollar Baby</a> - (2004) - First Watch</li>
+<li><strong>2025-03-06</strong> - <a href="https://boxd.it/92FXjD">The Hitcher</a> - (1986) - First Watch</li>
+<li><strong>2025-03-05</strong> - <a href="https://boxd.it/92wM1v">Good Burger</a> - (1997) - Rewatch</li>
+<li><strong>2025-03-04</strong> - <a href="https://boxd.it/91CiR5">Lost Ladies</a> - (2023) - First Watch</li>
+<li><strong>2025-03-03</strong> - <a href="https://boxd.it/90WFRN">The Wing or the Thigh?</a> - (1976) - First Watch</li>
+<li><strong>2025-03-03</strong> - <a href="https://boxd.it/90uzZv">The Chorus</a> - (2004) - First Watch</li>
+<li><strong>2025-03-02</strong> - <a href="https://boxd.it/9014Ur">Unforgiven</a> - (1992) - First Watch</li>
+<li><strong>2025-03-01</strong> - <a href="https://boxd.it/8YZyLh">The Killing of a Sacred Deer</a> - (2017) - First Watch</li>
+</ul>
+<h3 id="february">February</h3>
+<ul>
+<li><strong>2025-02-28</strong> - <a href="https://boxd.it/8YBXqb">For All Mankind</a> - (1989) - First Watch</li>
+<li><strong>2025-02-27</strong> - <a href="https://boxd.it/8Yi0lD">Insomnia</a> - (2002) - First Watch</li>
+<li><strong>2025-02-27</strong> - <a href="https://boxd.it/8Y6VOD">Le Trou</a> - (1960) - First Watch</li>
+<li><strong>2025-02-26</strong> - <a href="https://boxd.it/8XCUbv">Kung Pow: Enter the Fist</a> - (2002) - First Watch</li>
+<li><strong>2025-02-26</strong> - <a href="https://boxd.it/8XynFz">Tarantella</a> - (1990) - First Watch</li>
+<li><strong>2025-02-26</strong> - <a href="https://boxd.it/8XyadR">Quay</a> - (2015) - First Watch</li>
+<li><strong>2025-02-26</strong> - <a href="https://boxd.it/8Xy0Qp">Doodlebug</a> - (1997) - First Watch</li>
+<li><strong>2025-02-25</strong> - <a href="https://boxd.it/8Xd7bL">The Dinner Game</a> - (1998) - First Watch</li>
+<li><strong>2025-02-23</strong> - <a href="https://boxd.it/8VW0hT">The Mule</a> - (2018) - First Watch</li>
+<li><strong>2025-02-20</strong> - <a href="https://boxd.it/8TMAxP">The Hunt</a> - (2012) - First Watch</li>
+<li><strong>2025-02-19</strong> - <a href="https://boxd.it/8TimfR">Timecrimes</a> - (2007) - First Watch</li>
+<li><strong>2025-02-19</strong> - <a href="https://boxd.it/8T6B6L">American Sniper</a> - (2014) - First Watch</li>
+<li><strong>2025-02-18</strong> - <a href="https://boxd.it/8SakBV">The Green Mile</a> - (1999) - First Watch</li>
+<li><strong>2025-02-17</strong> - <a href="https://boxd.it/8RWqWx">Man&rsquo;s Job</a> - (2007) - First Watch</li>
+<li><strong>2025-02-16</strong> - <a href="https://boxd.it/8RfKnB">CB4</a> - (1993) - First Watch</li>
+<li><strong>2025-02-16</strong> - <a href="https://boxd.it/8R59Cf">Gran Torino</a> - (2008) - Rewatch</li>
+<li><strong>2025-02-15</strong> - <a href="https://boxd.it/8PWiTd">Argylle</a> - (2024) - First Watch</li>
+<li><strong>2025-02-15</strong> - <a href="https://boxd.it/8PPL7t">Sleep Tight</a> - (2011) - First Watch</li>
+<li><strong>2025-02-14</strong> - <a href="https://boxd.it/8PKV37">Bāhubali 2: The Conclusion</a> - (2017) - First Watch</li>
+<li><strong>2025-02-12</strong> - <a href="https://boxd.it/8ODi6j">The Sting</a> - (1973) - Rewatch</li>
+<li><strong>2025-02-10</strong> - <a href="https://boxd.it/8NA1TN">Hereafter</a> - (2010) - First Watch</li>
+<li><strong>2025-02-09</strong> - <a href="https://boxd.it/8MSWwD">One Hour Photo</a> - (2002) - First Watch</li>
+<li><strong>2025-02-09</strong> - <a href="https://boxd.it/8MDjj1">Eddie Murphy: Delirious</a> - (1983) - Rewatch</li>
+<li><strong>2025-02-09</strong> - <a href="https://boxd.it/8MjKuZ">Bāhubali: The Beginning</a> - (2015) - First Watch</li>
+<li><strong>2025-02-08</strong> - <a href="https://boxd.it/8LLu23">Andrew Schulz: Infamous</a> - (2022) - Rewatch</li>
+<li><strong>2025-02-08</strong> - <a href="https://boxd.it/8LnUWt">No Country for Old Men</a> - (2007) - First Watch</li>
+<li><strong>2025-02-07</strong> - <a href="https://boxd.it/8LdKx9">12 Angry Men</a> - (1957) - First Watch</li>
+<li><strong>2025-02-06</strong> - <a href="https://boxd.it/8KGheL">Forrest Gump</a> - (1994) - First Watch</li>
+<li><strong>2025-02-06</strong> - <a href="https://boxd.it/8KsXQp">Ari Shaffir: Paid Regular</a> - (2015) - First Watch</li>
+<li><strong>2025-02-05</strong> - <a href="https://boxd.it/8K3mUp">Skinamarink</a> - (2022) - First Watch</li>
+<li><strong>2025-02-05</strong> - <a href="https://boxd.it/8JEXxR">Ali</a> - (2001) - First Watch</li>
+<li><strong>2025-02-03</strong> - <a href="https://boxd.it/8IVrOh">The Departed</a> - (2006) - First Watch</li>
+<li><strong>2025-02-02</strong> - <a href="https://boxd.it/8I04Wt">Trinity Is Still My Name</a> - (1971) - First Watch</li>
+</ul>
+<h3 id="january">January</h3>
+<ul>
+<li><strong>2025-01-29</strong> - <a href="https://boxd.it/8FdjU7">Monty Python and the Holy Grail</a> - (1975) - First Watch</li>
+<li><strong>2025-01-28</strong> - <a href="https://boxd.it/8EAv3V">They Call Me Trinity</a> - (1970) - First Watch</li>
+<li><strong>2025-01-27</strong> - <a href="https://boxd.it/8DRm8n">The Blair Witch Project</a> - (1999) - Rewatch</li>
+<li><strong>2025-01-26</strong> - <a href="https://boxd.it/8CZRL3">Oy Vey! My Son Is Gay!</a> - (2009) - First Watch</li>
+<li><strong>2025-01-24</strong> - <a href="https://boxd.it/8BdipB">The Hustler</a> - (1961) - First Watch</li>
+<li><strong>2025-01-23</strong> - <a href="https://boxd.it/8AtXsf">Psycho</a> - (1960) - First Watch</li>
+<li><strong>2025-01-22</strong> - <a href="https://boxd.it/8zLK6H">Good Will Hunting</a> - (1997) - Rewatch</li>
+<li><strong>2025-01-21</strong> - <a href="https://boxd.it/8z9kFv">The Third Wife</a> - (2018) - First Watch</li>
+<li><strong>2025-01-20</strong> - <a href="https://boxd.it/8ysYM1">Look Who&rsquo;s Back</a> - (2015) - First Watch</li>
+<li><strong>2025-01-19</strong> - <a href="https://boxd.it/8xzXVB">Midsommar</a> - (2019) - First Watch</li>
+<li><strong>2025-01-18</strong> - <a href="https://boxd.it/8wlLSt">The Lighthouse</a> - (2019) - First Watch</li>
+<li><strong>2025-01-17</strong> - <a href="https://boxd.it/8vMvQ7">Léon: The Professional</a> - (1994) - First Watch</li>
+<li><strong>2025-01-16</strong> - <a href="https://boxd.it/8uWVKl">Full Metal Jacket</a> - (1987) - First Watch</li>
+<li><strong>2025-01-15</strong> - <a href="https://boxd.it/8uB1Qv">Fargo</a> - (1996) - First Watch</li>
+<li><strong>2025-01-14</strong> - <a href="https://boxd.it/8tvJqP">It Ends with Us</a> - (2024) - First Watch</li>
+<li><strong>2025-01-13</strong> - <a href="https://boxd.it/8sOMZ3">The Machinist</a> - (2004) - First Watch</li>
+<li><strong>2025-01-12</strong> - <a href="https://boxd.it/8rQepb">The White Tiger</a> - (2021) - First Watch</li>
+<li><strong>2025-01-11</strong> - <a href="https://boxd.it/8qsf2b">The Silence of the Lambs</a> - (1991) - First Watch</li>
+<li><strong>2025-01-10</strong> - <a href="https://boxd.it/8pnBKF">The Count of Monte Cristo</a> - (2002) - First Watch</li>
+<li><strong>2025-01-09</strong> - <a href="https://boxd.it/8owxTd">The Substance</a> - (2024) - First Watch</li>
+<li><strong>2025-01-08</strong> - <a href="https://boxd.it/8nxwvx">Life of Brian</a> - (1979) - First Watch</li>
+<li><strong>2025-01-08</strong> - <a href="https://boxd.it/8mYpmt">The Intouchables</a> - (2011) - First Watch</li>
+<li><strong>2025-01-07</strong> - <a href="https://boxd.it/8mYoJL">Unbreakable</a> - (2000) - First Watch</li>
+<li><strong>2025-01-06</strong> - <a href="https://boxd.it/8mYt6J">Prisoners</a> - (2013) - First Watch</li>
+<li><strong>2025-01-06</strong> - <a href="https://boxd.it/8mYnSH">Eternal Sunshine of the Spotless Mind</a> - (2004) - First Watch</li>
+<li><strong>2025-01-05</strong> - <a href="https://boxd.it/8mYnpP">Dead Poets Society</a> - (1989) - First Watch</li>
+<li><strong>2025-01-04</strong> - <a href="https://boxd.it/8mYmPx">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a> - (1964) - First Watch</li>
+<li><strong>2025-01-03</strong> - <a href="https://boxd.it/8mYmg3">Idiocracy</a> - (2006) - First Watch</li>
+<li><strong>2025-01-02</strong> - <a href="https://boxd.it/8mYlnd">The Prestige</a> - (2006) - First Watch</li>
+<li><strong>2025-01-01</strong> - <a href="https://boxd.it/8mYuvP">Captain Phillips</a> - (2013) - First Watch</li>
+</ul>
+<h2 id="2024">2024</h2>
+<h3 id="december">December</h3>
+<ul>
+<li><strong>2024-12-31</strong> - <a href="https://boxd.it/8mYkOR">Raging Bull</a> - (1980) - First Watch</li>
+<li><strong>2024-12-31</strong> - <a href="https://boxd.it/8mYjNt">The Sixth Sense</a> - (1999) - First Watch</li>
+<li><strong>2024-12-30</strong> - <a href="https://boxd.it/8L5PAr">A Serious Man</a> - (2009) - First Watch</li>
+<li><strong>2024-12-24</strong> - <a href="https://boxd.it/8mYh3N">American Psycho</a> - (2000) - First Watch</li>
+<li><strong>2024-12-23</strong> - <a href="https://boxd.it/8mYfYH">Sonic the Hedgehog 3</a> - (2024) - First Watch</li>
+<li><strong>2024-12-19</strong> - <a href="https://boxd.it/8mYdGB">The Beekeeper</a> - (2024) - First Watch</li>
+<li><strong>2024-12-18</strong> - <a href="https://boxd.it/8mYbEj">Requiem for a Dream</a> - (2000) - First Watch</li>
+<li><strong>2024-12-18</strong> - <a href="https://boxd.it/8mYaP1">Barbarian</a> - (2022) - First Watch</li>
+<li><strong>2024-12-17</strong> - <a href="https://boxd.it/8mYvKV">The Village</a> - (2004) - First Watch</li>
+<li><strong>2024-12-15</strong> - <a href="https://boxd.it/8mY9Pp">Hard Eight</a> - (1996) - First Watch</li>
+<li><strong>2024-12-12</strong> - <a href="https://boxd.it/8mY8ch">Get Out</a> - (2017) - First Watch</li>
+</ul>
+<h1 id="movies-in-my-watchlist">Movies in My Watchlist</h1>
+<ul>
+<li><a href="https://boxd.it/bihA">Shot Caller</a> - (2017)</li>
+<li><a href="https://boxd.it/fuqC">Radius</a> - (2017)</li>
+<li><a href="https://boxd.it/22m2">Into the Wild</a> - (2007)</li>
+<li><a href="https://boxd.it/1UEM">House of Sand and Fog</a> - (2003)</li>
+<li><a href="https://boxd.it/zl06">A Man Called Otto</a> - (2022)</li>
+<li><a href="https://boxd.it/Lmti">Sector 36</a> - (2024)</li>
+<li><a href="https://boxd.it/3qPk">Dumb and Dumber To</a> - (2014)</li>
+<li><a href="https://boxd.it/uWPK">All My Friends Hate Me</a> - (2021)</li>
+<li><a href="https://boxd.it/29ZK">The Passion of the Christ</a> - (2004)</li>
+<li><a href="https://boxd.it/2a2u">The Grapes of Wrath</a> - (1940)</li>
+<li><a href="https://boxd.it/2apI">Vertigo</a> - (1958)</li>
+<li><a href="https://boxd.it/1MOO">Fear City: A Family-Style Comedy</a> - (1994)</li>
+<li><a href="https://boxd.it/DzQe">Daaaaaalí!</a> - (2023)</li>
+<li><a href="https://boxd.it/29E8">Monsieur Hulot&rsquo;s Holiday</a> - (1953)</li>
+<li><a href="https://boxd.it/1TeI">The Visitors</a> - (1993)</li>
+<li><a href="https://boxd.it/20si">Welcome to the Sticks</a> - (2008)</li>
+<li><a href="https://boxd.it/1WLK">PlayTime</a> - (1967)</li>
+<li><a href="https://boxd.it/lqOW">Deerskin</a> - (2019)</li>
+<li><a href="https://boxd.it/lIUS">Would I Lie to You: The Beginning</a> - (2019)</li>
+<li><a href="https://boxd.it/2a9q">Fight Club</a> - (1999)</li>
+<li><a href="https://boxd.it/27MO">Zodiac</a> - (2007)</li>
+<li><a href="https://boxd.it/2bdo">American History X</a> - (1998)</li>
+<li><a href="https://boxd.it/29lK">Delicatessen</a> - (1991)</li>
+<li><a href="https://boxd.it/41HW">In the House</a> - (2012)</li>
+<li><a href="https://boxd.it/5txC">Reality</a> - (2014)</li>
+<li><a href="https://boxd.it/lXCE">La Belle Époque</a> - (2019)</li>
+<li><a href="https://boxd.it/1WpO">My Cousin Vinny</a> - (1992)</li>
+<li><a href="https://boxd.it/2amk">A Beautiful Mind</a> - (2001)</li>
+<li><a href="https://boxd.it/1Fx2">La Traversée de Paris</a> - (1956)</li>
+<li><a href="https://boxd.it/XSK">Shoah</a> - (1985)</li>
+<li><a href="https://boxd.it/28Au">I Stand Alone</a> - (1998)</li>
+<li><a href="https://boxd.it/1MzY">A Man Escaped</a> - (1956)</li>
+<li><a href="https://boxd.it/27Di">The Diving Bell and the Butterfly</a> - (2007)</li>
+<li><a href="https://boxd.it/1Y2i">Children of Men</a> - (2006)</li>
+<li><a href="https://boxd.it/20oq">Don&rsquo;t Look Now&hellip; We&rsquo;re Being Shot At!</a> - (1966)</li>
+<li><a href="https://boxd.it/n8HM">The Empire Unmasked</a> - ()</li>
+<li><a href="https://boxd.it/18X2">Penn &amp; Teller Get Killed</a> - (1989)</li>
+<li><a href="https://boxd.it/xg52">Tony Hawk: Until the Wheels Fall Off</a> - (2022)</li>
+<li><a href="https://boxd.it/1jCE">Little Nicholas</a> - (2009)</li>
+<li><a href="https://boxd.it/5I4A">Highway</a> - (2012)</li>
+<li><a href="https://boxd.it/el3s">The Extraordinary Journey of the Fakir</a> - (2018)</li>
+<li><a href="https://boxd.it/7wq4">The Third Side of the River</a> - (2014)</li>
+<li><a href="https://boxd.it/7qrq">Madame Bovary</a> - (2014)</li>
+<li><a href="https://boxd.it/6GIU">The Fanimatrix: Run Program</a> - (2003)</li>
+<li><a href="https://boxd.it/1TSo">Memories of Murder</a> - (2003)</li>
+<li><a href="https://boxd.it/euce">The Invisible Guest</a> - (2016)</li>
+<li><a href="https://boxd.it/28yo">Rope</a> - (1948)</li>
+<li><a href="https://boxd.it/29FA">GoodFellas</a> - (1990)</li>
+<li><a href="https://boxd.it/8Jys">Dieudonné - Le Mur</a> - (2013)</li>
+<li><a href="https://boxd.it/48M">Dieudonné - Sandrine</a> - (2009)</li>
+<li><a href="https://boxd.it/1Yzw">The Bone Collector</a> - (1999)</li>
+<li><a href="https://boxd.it/2axs">Eyes Wide Shut</a> - (1999)</li>
+<li><a href="https://boxd.it/27M0">The Butterfly Effect</a> - (2004)</li>
+<li><a href="https://boxd.it/22ZI">Le Samouraï</a> - (1967)</li>
+<li><a href="https://boxd.it/297o">Mulholland Drive</a> - (2001)</li>
+<li><a href="https://boxd.it/1YZa">The Cabbage Soup</a> - (1981)</li>
+<li><a href="https://boxd.it/1SMY">The Tattoo</a> - (1968)</li>
+<li><a href="https://boxd.it/29XE">The Usual Suspects</a> - (1995)</li>
+<li><a href="https://boxd.it/29as">Irreversible</a> - (2002)</li>
+<li><a href="https://boxd.it/Msm">Incendies</a> - (2010)</li>
+<li><a href="https://boxd.it/2a6G">Apollo 13</a> - (1995)</li>
+<li><a href="https://boxd.it/u5E">Justin Bieber: Never Say Never</a> - (2011)</li>
+<li><a href="https://boxd.it/eUmk">Reis</a> - (2017)</li>
+<li><a href="https://boxd.it/6BQa">The Fault in Our Stars</a> - (2014)</li>
+<li><a href="https://boxd.it/wUow">Oppenheimer</a> - (2023)</li>
+<li><a href="https://boxd.it/leq4">Tenet</a> - (2020)</li>
+<li><a href="https://boxd.it/4VZ8">Interstellar</a> - (2014)</li>
+<li><a href="https://boxd.it/2b2g">All Quiet on the Western Front</a> - (1930)</li>
+<li><a href="https://boxd.it/1fUE">Bad Timing</a> - (1980)</li>
+<li><a href="https://boxd.it/1IRY">The Battle of Algiers</a> - (1966)</li>
+<li><a href="https://boxd.it/cPym">First Man</a> - (2018)</li>
+<li><a href="https://boxd.it/29u8">Close Encounters of the Third Kind</a> - (1977)</li>
+<li><a href="https://boxd.it/2bf0">2001: A Space Odyssey</a> - (1968)</li>
+<li><a href="https://boxd.it/2b1C">The 400 Blows</a> - (1959)</li>
+<li><a href="https://boxd.it/1Wj2">War of the Buttons</a> - (1962)</li>
+<li><a href="https://boxd.it/1ICY">The Room</a> - (2003)</li>
+<li><a href="https://boxd.it/1Yoo">The Exorcist</a> - (1973)</li>
+<li><a href="https://boxd.it/23uw">5 Card Stud</a> - (1968)</li>
+<li><a href="https://boxd.it/29mI">The Cincinnati Kid</a> - (1965)</li>
+<li><a href="https://boxd.it/7eoa">Tusk</a> - (2014)</li>
+<li><a href="https://boxd.it/9yzm">Annihilation</a> - (2018)</li>
+<li><a href="https://boxd.it/oxiE">Masameer: The Movie</a> - (2020)</li>
+<li><a href="https://boxd.it/2aeA">One Flew Over the Cuckoo&rsquo;s Nest</a> - (1975)</li>
+<li><a href="https://boxd.it/1J6a">Eddie Murphy Raw</a> - (1987)</li>
+<li><a href="https://boxd.it/25Hi">Midnight Cowboy</a> - (1969)</li>
+<li><a href="https://boxd.it/2ads">Casino</a> - (1995)</li>
+<li><a href="https://boxd.it/2b2A">Donnie Darko</a> - (2001)</li>
+<li><a href="https://boxd.it/29Pq">Pulp Fiction</a> - (1994)</li>
+<li><a href="https://boxd.it/2a6Q">Rear Window</a> - (1954)</li>
+<li><a href="https://boxd.it/2aRM">North by Northwest</a> - (1959)</li>
+<li><a href="https://boxd.it/2awY">Alien</a> - (1979)</li>
+<li><a href="https://boxd.it/1NTU">Harakiri</a> - (1962)</li>
+<li><a href="https://boxd.it/29Nu">The Shining</a> - (1980)</li>
+<li><a href="https://boxd.it/wFiI">Incantation</a> - (2022)</li>
+<li><a href="https://boxd.it/piEi">Sound of Freedom</a> - (2023)</li>
+<li><a href="https://boxd.it/hNVe">Hereditary</a> - (2018)</li>
+<li><a href="https://boxd.it/2xNo">Aa ab Laut Chalen</a> - (1999)</li>
+<li><a href="https://boxd.it/2ape">The Good, the Bad and the Ugly</a> - (1966)</li>
+<li><a href="https://boxd.it/29ro">Saving Private Ryan</a> - (1998)</li>
+<li><a href="https://boxd.it/20vQ">The Quiet American</a> - (2002)</li>
+<li><a href="https://boxd.it/1aX4">Cyclo</a> - (1995)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Playing Cards Collection</title>
+      <link>http://sykose.xyz/cards/cards/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://sykose.xyz/cards/cards/</guid>
+      <description>Learn about my playing card collection</description>
+      <content:encoded><![CDATA[<!-- # Playing Cards -->
+<h2 id="collection">Collection</h2>
+<p>Alongside my hobby of card magic and sleight of hands, I collect unique playing cards from all around the world. My collection seeks to have one deck of cards originating from every country in the world. A goal that ambitious may take years, but I will try.</p>
+<h3 id="rules-of-the-collection">Rules of the Collection</h3>
+<p>I have made some some strict rules around my collection.</p>
+<ul>
+<li>The cards must somehow represent the country, in any manner. It could be from imagery from that country, or a simple &ldquo;Made in _______&rdquo; on the deck.</li>
+<li>I, or a person I know, must purchase the deck in it&rsquo;s country of origin.</li>
+<li>The deck cannot be bought online.</li>
+<li>The deck must be of the <a href="https://en.wikipedia.org/wiki/Standard_52-card_deck">standard 52-card deck</a>, meaning it has four suits (Spades, Diamonds, Clubs, and Hearts), running from the Ace to the King</li>
+</ul>
+<h3 id="countries-collected">Countries Collected</h3>
+<!-- The following is a world map, highlighting the countries from which I’ve collected a deck: -->
+<p>The following is a list of countries from which I&rsquo;ve collected a deck of playing cards:</p>
+<ul>
+<li>Austria</li>
+<li>Croatia</li>
+<li>Czech Republic</li>
+<li>Finland</li>
+<li>Germany</li>
+<li>Iceland</li>
+<li>Italy</li>
+<li>Norway</li>
+<li>Poland</li>
+<li>Romania</li>
+<li>Spain</li>
+<li>Sweden</li>
+<li>United Kingdom</li>
+<li>United States of America</li>
+</ul>
+<!-- ![Map of playing card collection](https://wiki.sykose.xyz/lib/exe/fetch.php?media=mapchart_map.png) -->
+<h2 id="my-favorite-deck">My Favorite Deck</h2>
+<p>My favorite deck of playing cards is, drumroll please&hellip; a standard Bicycle! The United States Playing Card Company (USPCC) make the best playing cards for the price, you get the greatest bang for you buck. The following is a list explaining why I prefer standard Bicycles:</p>
+<ul>
+<li>Cheap! They&rsquo;re only around $3, and they can last a very long time (depending on how I use them). For casual games, it can last months, and for magic, it could last a couple of weeks.</li>
+<li>Reliable. You can find them in many convenience stores. And trust me, I cannot detach my eyes from the 2-pack Bicycle decks next to the register at Walmart.</li>
+<li>Durability. With the same single deck, I have played cards for months, practiced hours and hours of sleight of hand, brought them with me into a humid sauna, and even showered with them! And, after drying, the cards still felt smooth and were still usable for playing games. Although, people tend to lose interest when they learn the cards have been in the shower.</li>
+<li>Recognition. The back of a standard Bicycle card is globally recognized as the most popular type of playing card. Internet and street magician magicbyspaz explains that idea in <a href="https://youtu.be/SNOfpTQrWU4?si=_t5NVSntC9qDaxLs">this video</a>.</li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>How to Use SearX</title>
       <link>http://sykose.xyz/searx/how-to-use-searx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/searx/how-to-use-searx/</guid>
       <description>Configure your browser to use SearX</description>
+      <content:encoded><![CDATA[<h3 id="what-is-searx">What is SearX?</h3>
+<p>SearX is a multi-layered open source search engine that pulls results from tens of search engines to give you the most &ldquo;accurate&rdquo; results. Since it&rsquo;s open sourced, you can be assured it is much more secure and private than any other mainstream search engine.</p>
+<h3 id="do-i-have-to-code-something">Do I have to code something?</h3>
+<p>No. You can simply use my instance. If you want to set up your own instance, you should first <a href="/server">get your own server</a>, then follow <a href="https://landchad.net/searxng">this guide</a> to set up your SearX server. It should easily take less than 15 minutes for a basic installation.</p>
+<h3 id="how-can-i-use-your-searx-instance-in-my-own-browser">How can I use your SearX instance in my own browser?</h3>
+<p>Depends on the browser you have. On Firefox, you have to visit <a href="https://searx.sykose.xyz">my SearX instance</a>, and right-click on the URL bar. Then, click on <code>Add &quot;SearXNG&quot;</code>. Then, go to your Firefox settings, go to <code>Search</code>, and verify the <code>Default Search Engine</code> is <code>SearXNG</code>. Now, anything you search in your search bar should take you to my SearX instance.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Get started with PGP!</title>
+      <link>http://sykose.xyz/pgp/first_post/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://sykose.xyz/pgp/first_post/</guid>
+      <description>Introduction to PGP messaging</description>
+      <content:encoded><![CDATA[<h1 id="what-is-pgp">What is &ldquo;PGP&rdquo;?</h1>
+<p>PGP stands for &ldquo;<a href="https://en.wikipedia.org/wiki/Pretty_Good_Privacy">Pretty Good Privacy</a>&rdquo;, and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.</p>
+<h1 id="what-do-you-mean-by-encrypted-message">What do you mean by &ldquo;encrypted message&rdquo;?</h1>
+<p>An encrypted message means the message isn&rsquo;t read as clear text. It&rsquo;s the difference between this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-txt" data-lang="txt"><span style="display:flex;"><span>This is a sample.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>This is a sample text file.  I created it with an editor.  If it were
+</span></span><span style="display:flex;"><span>an actual message, it would contain some useful information.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>This has been a sample.
+</span></span></code></pre></div><p>and this:</p>
+<pre tabindex="0"><code class="language-pgp" data-lang="pgp">-----BEGIN PGP MESSAGE-----
+Version: 2.6.2
+
+hIwD1vwet/TdJfEBBACdcCPkNI3kRwYqtHUyfpvVAY5rt+Lb9P6EztNd4sYq9egV
+CZjfqcCn36XZmYPbbO6nZbl992kPRFzTgCRszKNPtlk6Wa93AqXs3KCZp+4emXQh
+7moE+XTf4QUGJZ2L3w/sSNs5WFkZRIbto0ivK1aRlX1XTqhPqo9HbgEfElBVUaYA
+AACQEWaOS3/h6BVLHTfXaK20vmLcg9BUisB5RDvYGLZv9XFwHMMjctFJJQYnWIOp
++7LLkmNO5fE48rWh0EOAwjAeduGzJGQb4yiE7OlxoESmmTJQ+qO1K2nDz8Stk3a6
+WvAQJrpEUY7Og8QGlQQRPKl2F++j6XbIhZ27OeYqJp+vgylUd874KDMCcTrzF3ph
+/Qfi
+=xTV9
+-----END PGP MESSAGE-----
+</code></pre><p>*Example provided by <a href="https://people.cs.rutgers.edu/~watrous/pgp-eat.html">Rutgers&rsquo; University&rsquo;s Computer Science Department</a>.</p>
+<p>It&rsquo;s much harder to make any sense out of the encrypted text, right? Well, that&rsquo;s the point!</p>
+<h1 id="but-gmail-and-whatsapp-tell-me-their-website-and-my-messages-are-encrypted">But GMail and WhatsApp tell me their website and my messages are encrypted!</h1>
+<p>Sure, the website is encrypted, and so are your message (to some extent). But the idea behind using PGP, or some equivalent, isn&rsquo;t to complicate matters by adding more layers of encryption; PGP is a great tool to mask your messages in the case of a leak. Websites are hacked into, and their data is dumped online, all the time. What good would a chatlog be if it was filled with encrypted text? Very little. If the messages were in plain text, then it would be worth a lot (at the cost of your privacy). Moreover, PGP offers a lot more than mere message encryption, but we&rsquo;ll get into that later.</p>
+<h1 id="why-should-i-even-care">Why should I even care?</h1>
+<p>Read <a href="/pgp/why_pgp">this article</a> on the subject.</p>
+<h1 id="wherehow-do-i-start">Where/how do I start?</h1>
+<h2 id="how-does-it-work">How does it work?</h2>
+<p>In order to use PGP, you need to know a little bit about how it actually works. Here is the run-down:</p>
+<ul>
+<li>Everyone has a <strong>public</strong> and <strong>private</strong> key. These are essentially how you are identified as the person you claim to be. This prevents me from imitating you, and sending messages on your behalf. The <strong>public</strong> key is to be shared with everyone, but the <strong>private</strong> key should never leave your computer (hence the name). Here is <a href="/syk.asc">my public key</a>, download it.</li>
+<li>To send me an encrypted message, you must write the message (in clear text), then encrypt it using my <strong>public</strong> key. That message can only be decrypted using my private key. The technology behind this is mind-boggling and fascinating, but you don&rsquo;t need to understand it.</li>
+</ul>
+<h2 id="is-there-an-app-i-can-use">Is there an app I can use?</h2>
+<p>There are dozens of PGP graphical software apps out there, but only one is known for it&rsquo;s ease of use; I personally find <a href="https://www.openpgp.org/software/kleopatra/">Kleopatra</a> to be the standard when it comes to PGP messaging. Install it to follow the rest of this guide.<br>
+<strong>NOTE</strong>: Kleopatra is available on Windows, but you should ideally use Linux for an optimal experience.</p>
+<h2 id="how-to-encrypt-messages-using-kleopatra">How to encrypt messages using Kleopatra?</h2>
+<p>Here are all the steps needed to start using Kleopatra:</p>
+<ul>
+<li>Click on <strong>File</strong>, then click on <strong>New OpenPGP Key Pair</strong>.</li>
+<li>Add your name and/or Email address (the information does not have to be authentic).</li>
+<li>Optional: Password protect your key (I highly recommend this).</li>
+<li>Choose the Key Material. Go with the default if you don&rsquo;t know the differences in key material.</li>
+<li>Optional: Choose expiration date of the key.</li>
+<li>If you chose to password protect your key, type in your password in the field. Type it again to verify.</li>
+<li>Click OK, and voila! Your key has been created.</li>
+<li>Right click on your key from the main menu, and click on &ldquo;Export&rdquo;. Save the <strong>public</strong> key to a .asc file, and share it around!</li>
+<li>To encrypt a message, go to &ldquo;Notepad&rdquo; on the taskbar. Type in your message.</li>
+<li>Select the recipient&rsquo;s public key under &ldquo;Encrypt for others&rdquo;.</li>
+<li>Click on &ldquo;Encrypt Notepad&rdquo;, and there is your encrypted message!</li>
+</ul>
+<p>Great! You now have a safely encrypted message. Send it to the recipient using the platform of your choice (E-Mail may be preferred).</p>
+<h2 id="how-to-decrypt-messages-using-kleopatra">How to decrypt messages using Kleopatra?</h2>
+<p>Here are the steps to decrypt a PGP message using Kleopatra:</p>
+<ul>
+<li>Paste the encrypted message into your notepad.</li>
+<li>Click on &ldquo;Decrypt/Verify Notepad&rdquo;</li>
+<li>If your private key is password-protected, type in the password when prompted.</li>
+<li>The decrypted message should now appear in the notepad.</li>
+</ul>
+<h1 id="what-else-can-i-do-with-pgp">What else can I do with PGP?</h1>
+<p>Something you can do using PGP technology is digitally signing your messages. A PGP-signed message will look like this:</p>
+<pre tabindex="0"><code class="language-pgp" data-lang="pgp">-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hello, this message is digitally signed.
+Everyone can both read the content.
+You can verify I am the true author of this message.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQR657wQ2YpjkKxAywZa2EuFS5oaQQUCaEO/WQAKCRBa2EuFS5oa
+QSV5AQCgixyVnTNgdReMdu6GFGZ/2aj5YVGOafTfMM15FZtPtQD/bKdxnB+0ZTes
+zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM=
+=E81E
+-----END PGP SIGNATURE-----
+</code></pre><p>The message goes under <code>BEGIN PGP SIGNED MESSAGE</code>, and the actual digital signature goes under <code>BEGIN PGP SIGNATURE</code>.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Why and how to get a server (and website!)</title>
       <link>http://sykose.xyz/server/how-to-make-a-server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/server/how-to-make-a-server/</guid>
       <description>The simple steps you need to take to finally have a website.</description>
-    </item>
-    <item>
-      <title>XMPP Chat Server</title>
-      <link>http://sykose.xyz/xmpp/xmpp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/xmpp/xmpp/</guid>
-      <description>Use a secure chat server.</description>
-    </item>
-    <item>
-      <title>How to utilize your site.</title>
-      <link>http://sykose.xyz/server/utilize-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/server/utilize-website/</guid>
-      <description>Cool things you can do, now that you have your server and website.</description>
+      <content:encoded><![CDATA[<h2 id="why-need-a-server">Why need a server?</h2>
+<p>Owning a server, or renting one, is the easiest way to host your own website online. Although GitHub, and other platform, offer ways to host your own website, they will leave you with many limitations. When you own the server, you can start hosting a lot of services! To learn more about what to do with your website, refer to <a href="/server/utilize-website">this article I wrote</a>.</p>
+<h2 id="how-to-get-one">How to get one</h2>
+<p>If you want to get and maintain, but don&rsquo;t want to get a headache over the smallest issues, I cannot recommend <a href="https://landchad.net">Luke Smith&rsquo;s website</a> any stronger. Stop being an internet peasant, and become an internet landlord!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Why use PGP?</title>
       <link>http://sykose.xyz/pgp/why_pgp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/pgp/why_pgp/</guid>
       <description>Reasons and rationalization behind using PGP encryption</description>
+      <content:encoded><![CDATA[<p>This page is about why one may prefer PGP over clear text messaging. If you don&rsquo;t care, and just want to learn how to use PGP, read the <a href="/pgp/first_post">introduction page</a>.</p>
+<h3 id="why-bother-doing-all-that-pgp-stuff">Why bother doing all that PGP stuff?</h3>
+<p>Encrypting one&rsquo;s messages is a personal choice. But here is what I will tell the <em>doubters</em>: once you get past the initial learning curve, using PGP will almost feel seamless. Moreover, you won&rsquo;t need to use it for every single message, just the ones you absolutely would prefer to have encrypted.</p>
+<h3 id="are-you-afraid-or-hiding-something">Are you afraid or hiding something?</h3>
+<p>This is a common ruse some people try to play to devalue digital privacy and security. The truth is, everyone prefers to have <strong>select</strong> elements of their life kept private. Think about it, you probably shut your blinds and have a fence around your house. Are you hiding something, committing some felonies perhaps? In that same nature, I value my privacy in the digital world; a message is meant for the eyes of the sender and recipient, unless further specified and allowed. I will leave you with a great quote on the subject:</p>
+<blockquote>
+<p>&ldquo;Arguing that you don&rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&rsquo;t care about free speech because you have nothing to say.&rdquo;<br>
+— Edward Snowden</p></blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to utilize your site.</title>
+      <link>http://sykose.xyz/server/utilize-website/</link>
+      <pubDate>Wed, 04 Jun 2025 10:00:01 -0500</pubDate>
+      <guid>http://sykose.xyz/server/utilize-website/</guid>
+      <description>Cool things you can do, now that you have your server and website.</description>
+      <content:encoded><![CDATA[<h3 id="cool-i-have-a-website-what-now">Cool, I have a website. What now?</h3>
+<p>You are now on your own, you have to decide how you want to use your website. Would you like to make a blog, or use your website as a portfolio/CV? Would you like to self-host services like an email server, search engine, Wiki page, and many more? Well, you now can. You can get started with <a href="https://landchad.net//#build-your-own-platform">Luke Smith&rsquo;s list of self-hosting services</a>.</p>
+<h3 id="i-dont-know-where-to-start-what-should-i-host">I don&rsquo;t know where to start, what should I host?</h3>
+<p>If your server can handle it, I would recommend hosting <a href="https://landchad.net/searxng/">your own search engine</a>. A search engine is likely your most used and utilized service, so you may want a little bit of privacy.</p>
+<h3 id="my-websites-page-looks-ugly-how-can-i-make-it-look-better">My website&rsquo;s page looks ugly, how can I make it look better?</h3>
+<p>You don&rsquo;t need to be an expert on HTML and CSS to have a nice looking website, all you need to do is use code other&rsquo;s have already made! I recommend you use <a href="https://gohugo.io/">Hugo</a>, a framework to quickly build static yet beautiful websites. Read up on the documentation. I am using the <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a>, as probably made apparent on the bottom of the page.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>The Generation of Mimicry, and the End of Conversation</title>
@@ -56,6 +539,57 @@
       <pubDate>Sun, 29 Jun 2025 00:24:36 -0500</pubDate>
       <guid>http://sykose.xyz/blog/american-youth/</guid>
       <description>Addressing the issues in American Youth.</description>
+      <content:encoded><![CDATA[<h1 id="the-subject">The Subject</h1>
+<p>Who are &ldquo;American Youth&rdquo;? For this article, I define American youth as Americans between the ages of 13 and 35. The upper limit makes the range quite wide, but the societal patterns discussed appear within the population in that age range.</p>
+<h1 id="the-beginning">The Beginning</h1>
+<p>I would consider myself to be quite extroverted. I am not afraid of approaching people, and actually feel very comfortable when speaking to a group of people my age.</p>
+<p>However, I have noticed I don&rsquo;t have many acquaintances outside of my friend groups. Is it somehow my fault, that I am unable to find common interests with my &ldquo;generation&rdquo;, or is there a larger issue to be discussed?</p>
+<h2 id="the-indifference-is-large">The Indifference Is Large</h2>
+<p>Outside of campus, there are several places where I will get to meet young Americans: organized events, restaurants, stores, skate parks, and many other places. I have no shortage of avnues to find people in my age group.</p>
+<p>But I have difficulty finding like-minded people. Why is that?</p>
+<p>Shortly put it, I have nothing interesting to discuss with the majority of young Americans.</p>
+<h1 id="a-dead-light-bulb">A Dead Light Bulb</h1>
+<p>Most of the interactions I have with young Americans leave me with less hope in the future of this nation. You may think I am overreacting, but I truly think I am not.</p>
+<p>I find it demoralizing to spend time around young Americans, when their mind space is occupied by matters that have little spiritual or intellectual importance.</p>
+<p>Well, what matters am I speaking of? The following are the topics I cannot stop hearing about when around young Americans: social media, shoes, marijuana, big league sports, video games, hair, women, partying, celebrities, and &ldquo;designer&rdquo; fashion.</p>
+<p>Why don&rsquo;t they instead speak of more intriguing and challenging topics, like mathematics, history, science, poetry, and spirituality? Well, it&rsquo;s because their environment offered them no better choice.</p>
+<h1 id="the-illusion-of-choice">The Illusion Of Choice</h1>
+<p>Among my favorite modern philosophers is <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Girard">René Girard</a>. He proposed the <a href="https://en.wikipedia.org/wiki/Mimetic_theory">mimetic theory</a>, and described the mimetic desire in this famous quote:</p>
+<blockquote>
+<p>&ldquo;Man is the creature who does not know what to desire, and he turns to others in order to make up his mind. We desire what others desire because we imitate their desires.&rdquo;
+— René Girard</p></blockquote>
+<p>Most will make nothing out of the mimetic theory, chalking it up to something along the lines of &ldquo;I already knew that&rdquo;, or &ldquo;I don&rsquo;t really care if others influence me&rdquo;.</p>
+<p>The idea and consequences are much more severe and grave than mere influence and mimicry. The truth is, most choices made by man are not original.</p>
+<p>Give yourself some time tonight to truly reflect on who you are and what you involve yourself in. Are the choices you make truly yours? Question the decisions you have made, such as the phone you bought, the concert you attended, the major you chose in university, the clothes you wear, and that tattoo you got.</p>
+<p>Did you really make those choices, or did you find comfort in conforming and imitating your surrounding.</p>
+<p>Once you notice the pattern, if you are able to, you will never be able to ignore it. You will realize you are a subject to the mimetic theory, and that the choices you make aren&rsquo;t entirely yours.</p>
+<h2 id="why-it-matters">Why It Matters</h2>
+<blockquote>
+<p>Alright, so what if the choices we make aren&rsquo;t original, can&rsquo;t we still be happy?</p></blockquote>
+<p>Yes, but noticing this pattern will make you redefine your method of living. You&rsquo;ll think twice before making some unnecessary purchase, posting pictures online, watching that show everyone has been talking about. Instead, you&rsquo;ll try to find subjects and hobbies that really cater to you. Of course, you won&rsquo;t be alone, as almost any interest will have its own community. But, you&rsquo;ll isolate yourself from the general crowd, the one that moves together in fear of being left behind. Your fear of missing out (FOMO) will fade, and you&rsquo;ll find more peace and comfort when left alone to entertain yourself. The false and poor opinions of others won&rsquo;t matter anymore. You will find a more fulfilling lifestyle.</p>
+<h1 id="the-honest-truth">The Honest Truth</h1>
+<p>A lot of young Americans are absolutely insufferable to be around. To be clear, they aren&rsquo;t bad people, but their character discourages depth and critical thinking.</p>
+<p>The mixture of ignorance, lack of creativity, disinterest in reading and learning, herd-like mentality, and immoral lifestyle makes many of them a danger to be around.</p>
+<p>For a short-term encounter, it may not be that big of a deal. Perhaps you meet a nice group of young adults at a basketball court, and you&rsquo;ll find yourself enjoying a quick game of H. O. R. S. E.</p>
+<p>However, when you are pushed to spend a longer amount of time with them, you come to find out how miserable they are internally.</p>
+<p>Repeating my earlier point, their hobbies and interests are intellectually depleting. Every inhale of their vape solidifies their negative reputation, along with their rants about their hatred for school and their parents.</p>
+<p>When you try to organize an event with them, they usually come late or cancel the plan altogether (usually making some hubris excuse of &ldquo;being busy&rdquo;).</p>
+<p>For these reasons, the time I spend outside of solitude will be with a small group of friends and family.</p>
+<h2 id="sounds-like-a-you-problem">Sounds Like A You Problem</h2>
+<p>You would be right, it is a &ldquo;me&rdquo; problem. I have found people who agree with the sentiment declared in this article, most of them being my friends. And if you were angered or bothered by reading this article, there is probably a very good reason why :]</p>
+<h1 id="how-do-we-change">How Do We Change</h1>
+<p>In some ways, this could be a self-solving problem. Over a longer period of time, people will begin reversing these societal issues, and matters will go &ldquo;back to normal&rdquo;.</p>
+<p>But I believe we should focus on ourselves first, before helping others.</p>
+<p>It&rsquo;s similar to putting on your oxygen mask first, before assisting others. My first advice would be to stay away from social media. This would be the subject of another article, but in short, there is not a shred of positivity that social media can bring you.</p>
+<p>If you want to share memories in the form of videos and pictures with your friends and family, you will enjoy it much more if you simply send it to them directly.</p>
+<p>Sharing personal details and memories with hundreds of people, or the whole world, makes you miserable. Constantly seeing what others are doing, but only seeing the highest moments, will make you feel negative about yourself and your own life.</p>
+<p>Another practice I would recommend is to start reading more, specifically about your own interests; fill your mind with better subjects to think about.</p>
+<p>My final advice, is to spend more time alone. There are many benefits to this, but the main ones include personal growth and increased excitement for social events.</p>
+<p>When you spend time alone (and offline!), you start to be more productive, and find interesting hobbies. Whether it&rsquo;s drawing, origami, Minecraft, or creating your own website, you find unique ways of entertaining yourself.</p>
+<p>And as counterintuitive as it may sound, spending more time alone makes your social interactions much more enjoyable. Spending hours upon hours with your friends, every single day, will cause some type of burnout.</p>
+<p>But, if you see them twice a week, for a couple hours, it becomes a lot more enjoyable. You can speak to each other of what you learned that specific week, what new hobbies you may have embarked upon, and much more.</p>
+<p>These are some simple pieces of solid advice I can recommend for living a more socially independent life.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Bring back the meaning of words!</title>
@@ -63,29 +597,16 @@
       <pubDate>Mon, 09 Jun 2025 00:56:14 -0500</pubDate>
       <guid>http://sykose.xyz/blog/stop_saying_genius/</guid>
       <description>If you can solve a soduku puzzle, you are a genius!</description>
-    </item>
-    <item>
-      <title>Curriculum Vitae - Serden-Yilmaz Kose</title>
-      <link>http://sykose.xyz/cv/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/cv/cv/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;!-- Detail-oriented Computer Science and Engineering student with a passion for Linux and Artificial Intelligence. --&gt;
-&lt;p&gt;As an aspiring Bachelor&amp;rsquo;s Degree student studying Computer Science and Engineering with a specialization in Artifici Intelligence at the University of Oulu, I possess and practice many skills and interests that will serve me in my professional career, including my proficiency in several computer languages to exchanging dialogue with people in spoken languages.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Movies</title>
-      <link>http://sykose.xyz/movies/movies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/movies/movies/</guid>
-      <description>An elaborate guide on how to find and enjoy movies as a hobby.</description>
-    </item>
-    <item>
-      <title>Playing Cards Collection</title>
-      <link>http://sykose.xyz/cards/cards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/cards/cards/</guid>
-      <description>Learn about my playing card collection</description>
+      <content:encoded><![CDATA[<h1 id="the-beginning">The Beginning</h1>
+<p>Have you noticed that people constantly, and wrongly,overuse <strong>very</strong> powerful words? Word like genius, obsession, addiction, trauma, etc&hellip;? Why do people do this?</p>
+<h1 id="the-problem">The Problem</h1>
+<p>When you overuse these words, you slowly alter the true meaning of the word. And I understand that languages change overtime, for various reasons, but why should we delibaretly devlue a powerful word like &ldquo;genius&rdquo;? If half a population is labeled as &ldquo;genius&rdquo;, then there is no &ldquo;genius&rdquo;. A genius in a field comes a few times every generation. If someone is somewhat profficient in some field, it doesn&rsquo;t make them a genius! Instead, it makes them somewhat profficient in that field. Everything is relative.</p>
+<h1 id="the-solution">The Solution</h1>
+<p>&hellip; isn&rsquo;t easy. Simple, maybe, but not easy. Be more careful with your vocabulary. Next time you want to use a superlative, think it through; does the subject merit the superlative of said adjective? Probably not. Next time you want to say you &ldquo;hate&rdquo; something, reconsider that feeling. A linguistically enhancing, and potentially spiritually enhancing, would be to not use the word &ldquo;hate&rdquo; for a week. You can replace that word with &ldquo;dislike&rdquo;, &ldquo;avoid&rdquo;, &ldquo;prefer not&rdquo;, &ldquo;refrain&rdquo;, etc&hellip; Find creative ways to rebuild your speech, you won&rsquo;t regret it!</p>
+<h1 id="a-picture-of-an-actual-genius">A Picture Of An Actual Genius</h1>
+<p><img alt="Nikola Tesla, with his equipment" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Nikola_Tesla%2C_with_his_equipment_EDIT.jpg">
+Image: <em>Dickenson V. Alley</em>, <a href="https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_EDIT.jpg">Nikola Tesla, with his equipment</a>, Wikimedia Commons, public domain.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

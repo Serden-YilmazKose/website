@@ -5,6 +5,7 @@ theme: ["PaperMod"]
 
 params:
   monero: "89NJQenW1EZSX3ui6zXjUpLmPTKSz8aUkPdQMXJSYMWpSsnsL4jTZXW9Pcrge9C1YD9h9NyqMWr6tVmRfLEfFJxbJEXSUei"
+  ShowFullTextinRSS: true
   profileMode:
     enabled: true
     title: "My Digital Palace"
@@ -70,6 +71,10 @@ params:
       title: Use My XMPP Chat Server!
       url: "/xmpp/xmpp"
 
+    - name: RSS
+      title: Subscribe to my RSS feed!
+      url: "https://sykose.xyz/index.xml"
+
 taxonomies:
   tag: "tags"
   category: "categories"
@@ -95,3 +100,8 @@ menu:
     - name: Tags
       title: Pages under specific tags on my website
       url: "/tags/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
