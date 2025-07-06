@@ -68,8 +68,8 @@ params:
       url: "https://fi.linkedin.com/in/serden-yilmaz-kose-858b83258"
 
     - name: XMPP
-      title: Use My XMPP Chat Server!
-      url: "/xmpp/xmpp"
+      title: My XMPP address
+      url: "xmpp:kose@sykose.xyz"
 
     - name: RSS
       title: Subscribe to my RSS feed!
