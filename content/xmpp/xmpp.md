@@ -27,4 +27,5 @@ It's very easy, I simply followed [this guide](https://landchad.net/prosody/). I
 **NOTE**: There are many features (modules) you can enable/disable, so read up on the documentation.
 
 # My Credentials
-Message me on my public account: ```kose@sykose.xyz```
+Message me on my public account: ```kose@sykose.xyz```.\
+Alternatively, you could simply click on the 🛜 looking icon on my website's main page.

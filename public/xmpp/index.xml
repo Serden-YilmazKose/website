@@ -4,7 +4,7 @@
     <title>Xmpps on Serden-Yilmaz Kose</title>
     <link>http://sykose.xyz/xmpp/</link>
     <description>Recent content in Xmpps on Serden-Yilmaz Kose</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 16:32:33 -0500</lastBuildDate>
     <atom:link href="http://sykose.xyz/xmpp/index.xml" rel="self" type="application/rss+xml" />
@@ -42,7 +42,8 @@
 <p>It&rsquo;s very easy, I simply followed <a href="https://landchad.net/prosody/">this guide</a>. It should take you no more than 20 minutes.
 <strong>NOTE</strong>: There are many features (modules) you can enable/disable, so read up on the documentation.</p>
 <h1 id="my-credentials">My Credentials</h1>
-<p>Message me on my public account: <code>kose@sykose.xyz</code></p>
+<p>Message me on my public account: <code>kose@sykose.xyz</code>.<br>
+Alternatively, you could simply click on the 🛜 looking icon on my website&rsquo;s main page.</p>
 ]]></content:encoded>
     </item>
   </channel>
