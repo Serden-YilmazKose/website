@@ -28,4 +28,4 @@ It's very easy, I simply followed [this guide](https://landchad.net/prosody/). I
 
 # My Credentials
 Message me on my public account: ```kose@sykose.xyz```.\
-Alternatively, you could simply click on the 🛜 looking icon on my website's main page.
+Alternatively, you could simply click on the "X" looking icon on my website's main page.
