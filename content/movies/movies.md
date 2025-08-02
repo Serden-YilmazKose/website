@@ -53,6 +53,24 @@ The following are the movies I have watched since the beginning of my movie jour
 
 **NOTE**: I will update this month at the end of each month, probably.
 ## 2025
+### July
+  * **2025-07-31** - [Are We Done Yet?](https://boxd.it/ayRxg9) - (2007) - First Watch
+  * **2025-07-28** - [Pi](https://boxd.it/awj4xp) - (1998) - First Watch
+  * **2025-07-28** - [Junior](https://boxd.it/aw8QJV) - (1994) - First Watch
+  * **2025-07-26** - [Theo Von: Regular People](https://boxd.it/auEMHd) - (2021) - First Watch
+  * **2025-07-22** - [Dolemite Is My Name](https://boxd.it/ar3ZPD) - (2019) - First Watch
+  * **2025-07-21** - [The Whale](https://boxd.it/aqukQl) - (2022) - First Watch
+  * **2025-07-19** - [The Usual Suspects](https://boxd.it/apVq3J) - (1995) - First Watch
+  * **2025-07-18** - [The Three Brothers](https://boxd.it/anBfLR) - (1995) - First Watch
+  * **2025-07-16** - [Deerskin](https://boxd.it/amN5T7) - (2019) - First Watch
+  * **2025-07-14** - [We Need to Talk About Kevin](https://boxd.it/akHO2R) - (2011) - First Watch
+  * **2025-07-13** - [Passport to the Universe](https://boxd.it/al0Btj) - (2005) - First Watch
+  * **2025-07-12** - [Would I Lie to You? 2](https://boxd.it/ajEaZJ) - (2001) - Rewatch
+  * **2025-07-11** - [Sector 36](https://boxd.it/aiywPb) - (2024) - First Watch
+  * **2025-07-08** - [All My Friends Hate Me](https://boxd.it/agdFdv) - (2021) - First Watch
+  * **2025-07-05** - [Le Trou](https://boxd.it/aep9tR) - (1960) - Rewatch
+  * **2025-07-04** - [Reality](https://boxd.it/adn9nL) - (2014) - First Watch
+  * **2025-07-02** - [Precious](https://boxd.it/acbaFX) - (2009) - First Watch
 ### June
   * **2025-06-27** - [Apollo 13](https://boxd.it/a8Wvth) - (1995) - First Watch
   * **2025-06-20** - [A Man Called Otto](https://boxd.it/a4xLEz) - (2022) - First Watch
@@ -196,17 +214,19 @@ The following are the movies I have watched since the beginning of my movie jour
   * **2024-12-12** - [Get Out](https://boxd.it/8mY8ch) - (2017) - First Watch
 
 # Movies in My Watchlist
-  * [The Pursuit of Happyness](https://boxd.it/28PE) - (2006)
-  * [We Need to Talk About Kevin](https://boxd.it/2pTS) - (2011)
+  * [Infernal Affairs](https://boxd.it/1Vqw) - (2002)
+  * [We're All Going to the World's Fair](https://boxd.it/tbmY) - (2021)
+  * [The Three Brothers: The Return](https://boxd.it/7efM) - (2014)
+  * [A Time to Kill](https://boxd.it/28pc) - (1996)
+  * [Mississippi Burning](https://boxd.it/28r8) - (1988)
+  * [South32](https://boxd.it/eKKm) - (2016)
   * [Gone Girl](https://boxd.it/6hQu) - (2014)
   * [Enemy at the Gates](https://boxd.it/29s2) - (2001)
   * [The Talented Mr. Ripley](https://boxd.it/2924) - (1999)
   * [Radius](https://boxd.it/fuqC) - (2017)
   * [Into the Wild](https://boxd.it/22m2) - (2007)
   * [House of Sand and Fog](https://boxd.it/1UEM) - (2003)
-  * [Sector 36](https://boxd.it/Lmti) - (2024)
   * [Dumb and Dumber To](https://boxd.it/3qPk) - (2014)
-  * [All My Friends Hate Me](https://boxd.it/uWPK) - (2021)
   * [The Passion of the Christ](https://boxd.it/29ZK) - (2004)
   * [The Grapes of Wrath](https://boxd.it/2a2u) - (1940)
   * [Vertigo](https://boxd.it/2apI) - (1958)
@@ -216,7 +236,6 @@ The following are the movies I have watched since the beginning of my movie jour
   * [The Visitors](https://boxd.it/1TeI) - (1993)
   * [Welcome to the Sticks](https://boxd.it/20si) - (2008)
   * [PlayTime](https://boxd.it/1WLK) - (1967)
-  * [Deerskin](https://boxd.it/lqOW) - (2019)
   * [Would I Lie to You: The Beginning](https://boxd.it/lIUS) - (2019)
   * [Fight Club](https://boxd.it/2a9q) - (1999)
   * [Zodiac](https://boxd.it/27MO) - (2007)
@@ -254,7 +273,6 @@ The following are the movies I have watched since the beginning of my movie jour
   * [Mulholland Drive](https://boxd.it/297o) - (2001)
   * [The Cabbage Soup](https://boxd.it/1YZa) - (1981)
   * [The Tattoo](https://boxd.it/1SMY) - (1968)
-  * [The Usual Suspects](https://boxd.it/29XE) - (1995)
   * [Irreversible](https://boxd.it/29as) - (2002)
   * [Incendies](https://boxd.it/Msm) - (2010)
   * [Justin Bieber: Never Say Never](https://boxd.it/u5E) - (2011)

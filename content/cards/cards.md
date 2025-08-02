@@ -24,6 +24,7 @@ I have made some some strict rules around my collection.
 <!-- The following is a world map, highlighting the countries from which I’ve collected a deck: -->
 The following is a list of countries from which I've collected a deck of playing cards:
 - Austria
+- Canada
 - Croatia
 - Czech Republic
 - Finland
