@@ -4,8 +4,8 @@ summary: "Configure your browser to use SearX"
 tags: ['SearX', 'SearXNG', 'privacy', 'security']
 showToc: true
 tocOpen: true
-weight: 1
-date: 2025-06-10
+<!-- weight: 1 -->
+<!-- date: 2025-06-10 -->
 ---
 
 ### What is SearX?

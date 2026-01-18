@@ -4,8 +4,23 @@
     <title>Contact on Serden-Yilmaz Kose</title>
     <link>http://sykose.xyz/tags/contact/</link>
     <description>Recent content in Contact on Serden-Yilmaz Kose</description>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <atom:link href="http://sykose.xyz/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://sykose.xyz/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sykose.xyz/contact/</guid>
+      <description>Contact details</description>
+      <content:encoded><![CDATA[<p>The following is my contact information:</p>
+<p><strong>E-Mail</strong>: <a href="mailto:kose@sykose.xyz">kose@sykose.xyz</a><br>
+<strong>PGP Key</strong>: <a href="/syk.asc" download>syk.asc</a><br>
+&mdash;&gt;<strong>Fingerprint</strong>: <code>2F5D7487CD683DCD902B41493DC0D478CA988128</code><br>
+<strong>XMPP</strong>: <a href="xmpp:kose@sykose.xyz">kose@sykose.xyz</a></p>
+<p><strong>NOTE</strong>: If possible, use PGP messaging and add <code>sykose.xyz</code> to the headline.<br>
+<img alt="image" loading="lazy" src="/pigeon.jpg"></p>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>

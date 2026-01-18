@@ -4,8 +4,8 @@ summary: "People notice details far, far less than you think."
 tags: ['social']
 showToc: true
 tocOpen: true
-weight: 1
-date: 2025-07-14T17:18:41-05:00
+weight: -2
+<!-- date: 2025-07-14T17:18:41-05:00 -->
 ---
 
 # "Didn't you wear that shirt yesterday?"

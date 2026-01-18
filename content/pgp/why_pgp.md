@@ -1,10 +1,10 @@
 ---
 title: 'Why use PGP?'
-summary: Reasons and rationalization behind using PGP encryption
+summary: Reasons and rationalization behind using PGP encryption.
 showToc: true
 tocOpen: true
-weight: 2
-date: 2025-06-09
+weight: -1
+<!-- date: 2025-06-09 -->
 ---
 
 This page is about why one may prefer PGP over clear text messaging. If you don't care, and just want to learn how to use PGP, read the [introduction page](/pgp/first_post).

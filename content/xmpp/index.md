@@ -4,8 +4,8 @@ summary: "Use a secure chat server."
 tags: ['linux', 'privacy']
 showToc: true
 tocOpen: true
-weight: 1
-date: 2025-07-03T16:32:33-05:00
+<!-- weight: 1 -->
+<!-- date: 2025-07-03T16:32:33-05:00 -->
 ---
 
 # What Is XMPP?

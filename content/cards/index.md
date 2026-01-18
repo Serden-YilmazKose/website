@@ -1,11 +1,11 @@
 ---
 title: "Playing Cards Collection"
-summary: "Learn about my playing card collection"
+summary: "Learn about my playing card collection."
 tags: ['cards', 'collection']
 showToc: true
 tocOpen: true
-date: 2025-06-17
-weight: 1
+<!-- date: 2025-06-17 -->
+<!-- weight: 1 -->
 ---
 
 
@@ -30,15 +30,16 @@ The following is a list of countries from which I've collected a deck of playing
 - Finland
 - Germany
 - Iceland
+- Indonesia
 - Italy
 - Norway
 - Poland
 - Romania
+- Singapore
 - Spain
 - Sweden
 - United Kingdom
 - United States of America
-<!-- ![Map of playing card collection](https://wiki.sykose.xyz/lib/exe/fetch.php?media=mapchart_map.png) -->
 
 ## My Favorite Deck
 My favorite deck of playing cards is, drumroll please... a standard Bicycle! The United States Playing Card Company (USPCC) make the best playing cards for the price, you get the greatest bang for you buck. The following is a list explaining why I prefer standard Bicycles:

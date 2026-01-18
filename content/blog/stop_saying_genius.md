@@ -1,10 +1,11 @@
 ---
-date: '2025-06-09T00:56:14-05:00'
 title: 'Bring back the meaning of words!'
 summary: If you can solve a soduku puzzle, you are a genius!
 tags: ['blog', 'social']
 showToc: true
 tocOpen: true
+weight: 0
+<!-- date: 2025-06-09T00:56:14-05:00 -->
 ---
 
 # The Beginning

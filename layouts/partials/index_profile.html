@@ -34,7 +34,8 @@
         <h3>{{ .subtitle | markdownify }}</h3>
         <!-- <span>{{ .subtitle | markdownify }}</span> -->
         {{- partial "social_icons.html" -}}
-        <h2>Guides and other material I've written:</h2>
+        <!-- <h2>Guides and other material I've written:</h2> -->
+        <h2>{{ .prelist | markdownify }}</h2>
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}

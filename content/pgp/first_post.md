@@ -1,11 +1,11 @@
 ---
 title: 'Get started with PGP!'
-summary: Introduction to PGP messaging
+summary: Introduction to PGP messaging.
 tags: ['linux', 'PGP', 'privacy']
 showToc: true
 tocOpen: true
-weight: 1
-date: 2025-06-06
+weight: 0
+<!-- date: 2025-06-06 -->
 ---
 # What is "PGP"?
 PGP stands for "[Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)", and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.

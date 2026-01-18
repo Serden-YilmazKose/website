@@ -1,8 +1,8 @@
 ---
 title: "How to utilize your site."
 summary: Cool things you can do, now that you have your server and website.
-weight: 2
-date: 2025-06-04T10:00:01-05:00
+weight: -1
+<!-- date: 2025-06-04T10:00:01-05:00 -->
 showToc: true
 tocOpen: true
 ---

@@ -10,6 +10,7 @@ params:
     enabled: true
     title: "My Digital Palace"
     subtitle: "Welcome to my internet page. Here, you'll some facts about me, along with guides and blogs."
+    prelist: "Guides and other material I've written:"
     imageUrl: "https://sykose.xyz/pigeon.jpg"
     imageTitle: "Cool bird I like."
     imageWidth: 120
@@ -19,12 +20,14 @@ params:
     dateFormat: "2006-01-02"
     showPostTags: true
     buttons:
+      - name: Torrenting
+        url: "/torrent/"
       - name: Private chat server
-        url: "/xmpp/xmpp"
+        url: "/xmpp/"
       - name: Playing Card Collection
-        url: "/cards/cards"
+        url: "/cards/"
       - name: Movies
-        url: "/movies/movies"
+        url: "/movies/"
       - name: SearX Instance
         url: "/searx/"
       - name: "Make your own website"
@@ -36,7 +39,7 @@ params:
       - name: Tags
         url: "/tags/"
       - name: Contact
-        url: "/contact"
+        url: "/contact/"
 
   socialIcons:
     - name: github
@@ -91,9 +94,9 @@ menu:
     #   url: "/CV/cv"
     # - name: "About"
     #   url: "/about"
-    - name: Conctact
+    - name: Contact
       title: Contact me!
-      url: "/contact"
+      url: "/contact/"
     - name: Blog
       title: My personal blog
       url: "/blog/"

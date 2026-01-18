@@ -4,8 +4,8 @@ summary: "Addressing the issues in American Youth."
 tags: ['social', 'USA']
 showToc: true
 tocOpen: true
-<!-- weight: 1 -->
-date: 2025-06-29T00:24:36-05:00
+weight: -1
+<!-- date: 2025-06-29T00:24:36-05:00 -->
 ---
 
 # The Subject

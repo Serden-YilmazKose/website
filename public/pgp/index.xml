@@ -4,16 +4,32 @@
     <title>Learn to write encrypted messages! on Serden-Yilmaz Kose</title>
     <link>http://sykose.xyz/pgp/</link>
     <description>Recent content in Learn to write encrypted messages! on Serden-Yilmaz Kose</description>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://sykose.xyz/pgp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why use PGP?</title>
+      <link>http://sykose.xyz/pgp/why_pgp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://sykose.xyz/pgp/why_pgp/</guid>
+      <description>Reasons and rationalization behind using PGP encryption.</description>
+      <content:encoded><![CDATA[<p>This page is about why one may prefer PGP over clear text messaging. If you don&rsquo;t care, and just want to learn how to use PGP, read the <a href="/pgp/first_post">introduction page</a>.</p>
+<h3 id="why-bother-doing-all-that-pgp-stuff">Why bother doing all that PGP stuff?</h3>
+<p>Encrypting one&rsquo;s messages is a personal choice. But here is what I will tell the <em>doubters</em>: once you get past the initial learning curve, using PGP will almost feel seamless. Moreover, you won&rsquo;t need to use it for every single message, just the ones you absolutely would prefer to have encrypted.</p>
+<h3 id="are-you-afraid-or-hiding-something">Are you afraid or hiding something?</h3>
+<p>This is a common ruse some people try to play to devalue digital privacy and security. The truth is, everyone prefers to have <strong>select</strong> elements of their life kept private. Think about it, you probably shut your blinds and have a fence around your house. Are you hiding something, committing some felonies perhaps? In that same nature, I value my privacy in the digital world; a message is meant for the eyes of the sender and recipient, unless further specified and allowed. I will leave you with a great quote on the subject:</p>
+<blockquote>
+<p>&ldquo;Arguing that you don&rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&rsquo;t care about free speech because you have nothing to say.&rdquo;<br>
+— Edward Snowden</p>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>Get started with PGP!</title>
       <link>http://sykose.xyz/pgp/first_post/</link>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://sykose.xyz/pgp/first_post/</guid>
-      <description>Introduction to PGP messaging</description>
+      <description>Introduction to PGP messaging.</description>
       <content:encoded><![CDATA[<h1 id="what-is-pgp">What is &ldquo;PGP&rdquo;?</h1>
 <p>PGP stands for &ldquo;<a href="https://en.wikipedia.org/wiki/Pretty_Good_Privacy">Pretty Good Privacy</a>&rdquo;, and it is a program used to encrypt messages. It is free to use, and open-source (the code is public). It was written by Phil Zimmermann in the 1990s.</p>
 <h1 id="what-do-you-mean-by-encrypted-message">What do you mean by &ldquo;encrypted message&rdquo;?</h1>
@@ -93,22 +109,6 @@ zEyLJEB2wRnoNEkG0Cd9xqbGIGTdkQM=
 =E81E
 -----END PGP SIGNATURE-----
 </code></pre><p>The message goes under <code>BEGIN PGP SIGNED MESSAGE</code>, and the actual digital signature goes under <code>BEGIN PGP SIGNATURE</code>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Why use PGP?</title>
-      <link>http://sykose.xyz/pgp/why_pgp/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://sykose.xyz/pgp/why_pgp/</guid>
-      <description>Reasons and rationalization behind using PGP encryption</description>
-      <content:encoded><![CDATA[<p>This page is about why one may prefer PGP over clear text messaging. If you don&rsquo;t care, and just want to learn how to use PGP, read the <a href="/pgp/first_post">introduction page</a>.</p>
-<h3 id="why-bother-doing-all-that-pgp-stuff">Why bother doing all that PGP stuff?</h3>
-<p>Encrypting one&rsquo;s messages is a personal choice. But here is what I will tell the <em>doubters</em>: once you get past the initial learning curve, using PGP will almost feel seamless. Moreover, you won&rsquo;t need to use it for every single message, just the ones you absolutely would prefer to have encrypted.</p>
-<h3 id="are-you-afraid-or-hiding-something">Are you afraid or hiding something?</h3>
-<p>This is a common ruse some people try to play to devalue digital privacy and security. The truth is, everyone prefers to have <strong>select</strong> elements of their life kept private. Think about it, you probably shut your blinds and have a fence around your house. Are you hiding something, committing some felonies perhaps? In that same nature, I value my privacy in the digital world; a message is meant for the eyes of the sender and recipient, unless further specified and allowed. I will leave you with a great quote on the subject:</p>
-<blockquote>
-<p>&ldquo;Arguing that you don&rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&rsquo;t care about free speech because you have nothing to say.&rdquo;<br>
-— Edward Snowden</p></blockquote>
 ]]></content:encoded>
     </item>
   </channel>
